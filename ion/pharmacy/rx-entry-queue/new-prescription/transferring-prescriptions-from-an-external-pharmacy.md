@@ -7,6 +7,7 @@ When you receive a transferred prescription from an external pharmacy that doesn
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXej_7z5XOkxF_RHM8t0ypq73swF2DCS1MRvFpnSv4ChHs2cnxjldqcYmu48f0Taefvo4fmoDnZKXOoE1XvFLredCLJEqTPG9J2rfvx-GpLXJ4PAZP5wnd8YPqEpLae6b26l7gYqFQ?key=Mwg-J6pWl6poZIgsxn2fk5-D" alt=""><figcaption></figcaption></figure>
 
-3.  In the Transferring Pharmacy Information window, enter the name and address of the transferring pharmacy, the name of the transferring user, the name of the receiving user, and a phone number for the transferring pharmacy. Then, click **Record**.&#x20;
+3. In the Transferring Pharmacy Information window, enter the name and address of the transferring pharmacy, the name of the transferring user, the name of the receiving user, and a phone number for the transferring pharmacy. Then, click **Record**.&#x20;
+4.
 
-    <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfRtHU-W-dVLuzW7EAcJuPu1mHiyEYUW1hhr-0XMtwsFibz4UFit4dVW3EPZhtcoGQGTR1MIcgFwOkvukdcQFlBm4h-lrYuVwyAsmjlABQX-gi3dDIyBfhFGUBpBGxJInlsfeIN?key=Mwg-J6pWl6poZIgsxn2fk5-D" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/Transferring pharmacy information.png" alt=""><figcaption></figcaption></figure>
