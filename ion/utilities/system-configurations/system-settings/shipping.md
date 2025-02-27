@@ -89,6 +89,14 @@ To allow users to add shipping charges for shipments that aren’t part of an or
 * Select the **Non-Order Items: Apply to Patients** checkbox to apply this setting to shipments billed to patients.
 * Select both checkboxes to apply this setting to all shipments that don’t use an order.
 
+After you enable this setting, you must also enable it in the organizations for which non-order items should create charges. To do so:
+
+1. Go to Maintenance > Organizations and open an organization.
+2.  In the **Workflow Options** section, select the **Apply Shipping Charge on Non-Order Items** checkbox.&#x20;
+
+    <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+3. At the bottom of the page, click the **Save Organization** button.
+
 When a new shipping charge is created for an item that doesn’t use an order, the system associates the charge with the item using a unique identifier. You can match shipping charges to items by running the Transaction Itemized Report and matching the row with a value in the **Shipment Identifier** column with a row using the identical value in the **Payment Transaction Shipment Identifier** column. Note that transactions don’t appear on the Fill Report, so you can’t use that report for this reconciliation process.
 
 ### Create $0 shipping charges
