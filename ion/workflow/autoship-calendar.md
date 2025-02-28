@@ -1,6 +1,6 @@
 # Autoship Calendar
 
-Shows any prescription that has been requested to be auto filled with an upcoming refill due date.
+Shows any prescription that has been requested to be autofilled with an upcoming refill due date.
 
 <figure><img src="../.gitbook/assets/image (418).png" alt=""><figcaption></figcaption></figure>
 

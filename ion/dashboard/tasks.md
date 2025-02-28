@@ -6,19 +6,21 @@ description: >-
 
 # ION Task Queue
 
-Users can refine their view by selecting specific tasks from the dropdown menu and searching for a provider or patient to locate a prescription. They can also filter tasks by status—overdue, due, upcoming, or complete—by clicking the corresponding buttons. The task queue will then display all tasks matching the selected filters, organized chronologically from oldest to newest.
+The Dashboard page shows graphed data for prescription fills, new patient counts, prescription revenue year-over-year, and the ION task queue. Users can refine their view by selecting specific tasks from the dropdown menu and searching for a provider or patient to locate a prescription. They can also filter tasks by status—overdue, due, upcoming, or complete—by clicking the corresponding buttons. The task queue then shows all tasks matching the selected filters, organized chronologically from oldest to newest.
 
 <figure><img src="../.gitbook/assets/Task Queue.png" alt=""><figcaption></figcaption></figure>
 
 Task Status :&#x20;
 
-Red: Prescription marked Urgent, to be typed first.
+<mark style="background-color:red;">Red:</mark> Prescription marked Urgent, to be worked first.
 
 Yellow: Prescription marked Elevated, to be worked second.
 
 White: Prescriptions to be typed within regular processing time.
 
-## Commonly Used ION Task Glossary
+## Commonly Used ION Task Types
+
+Some of the most commonly-used task types are described below.
 
 **New Prescription:** New electronic prescriptions pending data entry.&#x20;
 
@@ -28,7 +30,7 @@ White: Prescriptions to be typed within regular processing time.
 
 **Prescription Entry:** The prescription has been entered and triaged, pending pharmacist verification for data accuracy.
 
-**New Formulation Request:** Placing the prescription in pending status for a new formulation to be created by a lab , requiring coordination between the dispensing and lab teams.
+**New Formulation Request:** Placing the prescription in pending status for a new formulation to be created by a lab, requiring coordination between the dispensing and lab teams.
 
 **Prescription Clarification:** The prescription requires clarification, and a request has been sent to the provider if necessary.
 

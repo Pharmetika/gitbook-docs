@@ -31,7 +31,7 @@
 
 ## Workflow
 
-* [Dashboard](workflow/dashboard.md)
+* [Workflow Dashboard](workflow/dashboard.md)
 * [Autoship Queue](workflow/autoship-queue.md)
 * [Autoship Calendar](workflow/autoship-calendar.md)
 * [Transactions Ready for Payment](workflow/transactions-ready-for-payment.md)
