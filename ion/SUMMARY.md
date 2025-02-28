@@ -60,7 +60,7 @@
   * [How to Set a Product as an OTC Product](pharmacy/rx-entry-queue/how-to-set-a-product-as-an-otc-product.md)
   * [How to Create an OTC Prescription](pharmacy/rx-entry-queue/how-to-create-an-otc-prescription.md)
 * [Clarification Queue](pharmacy/clarification-queue.md)
-* [Dispensing](pharmacy/dispensing/README.md)
+* [Dispensing Queue](pharmacy/dispensing/README.md)
   * [Using the Dispensing Queue](pharmacy/dispensing/using-the-dispensing-queue.md)
   * [Dispensing a Prescription](pharmacy/dispensing/dispensing-a-prescription.md)
   * [Capturing Product Images During Dispensing](pharmacy/dispensing/capturing-product-images-during-dispensing.md)
