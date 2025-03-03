@@ -89,6 +89,8 @@ To allow users to add shipping charges for shipments that aren’t part of an or
 * Select the **Non-Order Items: Apply to Patients** checkbox to apply this setting to shipments billed to patients.
 * Select both checkboxes to apply this setting to all shipments that don’t use an order.
 
+Note that, for this setting to take effect, you must also select the **Bill for Shipping Upon Label Creation** checkbox directly above the **Bill For Shipping On Non-Order Items** checkbox.
+
 After you enable this setting, you must also enable it in the organizations for which non-order items should create charges. To do so:
 
 1. Go to Maintenance > Organizations and open an organization.
