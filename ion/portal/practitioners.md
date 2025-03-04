@@ -1,32 +1,38 @@
 # Practitioners
 
-## Synopsis
+## Overview
 
-The Practitioners page contains a comprehensive list of Provider Portal practitioner accounts. From this screen, the pharmacy will be able to see at a glance: visibility of the EPCS status for providers, get a list of a practitioner account's patients, toggle their ability to request EPCS tokens, et cetera.
+The Practitioners page contains a comprehensive list of Provider Portal practitioner accounts. From this screen, the pharmacy can:&#x20;
 
-**Note**: Provider Portal practitioner accounts are not the same as a Prescriber entry in ION. For more information on how to manage Prescriber entries, [click here](../maintenance/prescribers/).
+* See the EPCS status for providers
+* Get a list of a practitioner account's patients
+* Toggle a practitioner's ability to request EPCS tokens
+
+**Note**: Provider Portal practitioner accounts are not the same as a Prescriber record in ION. For more information on how to manage Prescriber entries, [click here](../maintenance/prescribers/).
 
 ## Practitioner List
 
-The practitioner list, by default, is a list of all practitioner Provider Portal accounts that your pharmacy is associated with.
+By default, the Practitioner List is a list of all practitioner Provider Portal accounts that your pharmacy is associated with.
 
-**FAQ:** On smaller displays, the full width of this table may not fit on your screen. If this is the case, you will be able to scroll the table back and forth horizontally.
+{% hint style="info" %}
+On smaller displays, the full width of this table might not fit on your screen. If this is the case, you can sscroll the table back and forth horizontally.
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/image (571).png" alt=""><figcaption><p>A sample screenshot of what the practitioner list should look like.</p></figcaption></figure>
 
-The blue mail icon after the name of the practitioner is a button that will automatically begin an email to the practitioner in question.
+Clicking the blue letter icon after the name of the practitioner automatically begins an email to that practitioner.
 
-The Profile column provides a link button, which will take you to the [Edit Prescriber](../maintenance/prescribers/) screen for the practitioner profile in question.
+Clicking the link button in the Profile column takes you to the [Edit Prescriber](../maintenance/prescribers/) screen for that practitioner.
 
-The Request Token switch, if enabled, will allow practitioner accounts to begin the process of requesting an EPCS token for their account in the Provider Portal. You can toggle the default of this feature for new practitioner accounts in Utilities -> System Configuration -> System Settings -> Provider Portal -> Enable EPCS for New Providers by Default.
+The Request Token switch, if enabled, allows a practitioner to begin the process of requesting an EPCS token for their account in the Provider Portal. You can toggle the default of this feature for new practitioner accounts in Utilities > System Configuration > System Settings > Provider Portal > Enable EPCS for New Providers by Default.
 
-You are able to filter the list of practitioner accounts in two ways: via a search field for the practitioner account's username, and a button group for the practitioner's [EPCS token status](practitioners.md#epcs-statuses).
+You can filter the list of practitioner accounts in two ways: with a search field for the practitioner account's username, or with a button group for the practitioner's [EPCS token status](practitioners.md#epcs-statuses).
 
 <figure><img src="../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
 
 ### Viewing a Practitioner's Patients
 
-To view a list of patients a practitioner account may have access to, click the blue See Patients text button near the end of the row for a practitioner.
+To view a list of patients a practitioner account may have access to, click the blue **See Patients** text button near the end of the row for a practitioner.
 
 <figure><img src="../.gitbook/assets/image (229).png" alt=""><figcaption><p>A screenshot sample of a provider's patient list.</p></figcaption></figure>
 

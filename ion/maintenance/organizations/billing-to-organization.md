@@ -1,6 +1,6 @@
-# Billing to Organization
+# Billing to Organizations
 
-To have the option to choose to bill to organization: open the desired organization line and activate **Enable Invoicing to Company** and click **Save** at the bottom.
+To have the option to choose to bill to an organization: open the desired organization line and activate **Enable Invoicing to Company** and click **Save** at the bottom.
 
 <figure><img src="../../.gitbook/assets/image (499).png" alt=""><figcaption></figcaption></figure>
 

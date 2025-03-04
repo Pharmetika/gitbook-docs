@@ -1,24 +1,28 @@
 # Pharmacy Template Editor
 
-## Synopsis
+## Overview
 
-The Pharmacy Template Editor is designed for pharmacies to create and edit medication templates that will be visible to all prescribers in the Provider Portal. Templates simplify the process for the providers writing prescriptions, and minimize common, potential errors that may occur when each prescription is written individually. You would create templates in the Pharmacy Template Editor instead of making templates in the [Clinic Template Editor](clinic-template-editor.md) when a template is intended to highlight your pharmacy's formulary items. Templates created in the Pharmacy Template Editor will be visible to all prescribers.
+The Pharmacy Template Editor is designed for pharmacies to create and edit medication templates that are visible to all prescribers in the Provider Portal. Templates simplify the process for providers writing prescriptions, and minimize common potential errors that might occur when each prescription is written individually. We recommend creating templates in the Pharmacy Template Editor instead of making templates in the [Clinic Template Editor](clinic-template-editor.md) when a template is intended to highlight your pharmacy's formulary items.&#x20;
+
+{% hint style="info" %}
+Remember: templates created in the Pharmacy Template Editor are visible to all prescribers.
+{% endhint %}
 
 ## Managing Template, Categories, and Medication Entries
 
 {% embed url="https://drive.google.com/file/d/1fF_-SEjofGf-NG33j-KeNgXbhXx9GnnN/view?usp=sharing" fullWidth="false" %}
-An example video demonstrating the addition and creation of a template type, category, and medication.
+This example video demonstrates the addition and creation of a template type, category, and medication.
 {% endembed %}
 
 ### Adding a Template Type
 
-To add a new template, click the **Add template +** button on the top right hand side of the page, and select a template type from the predefined list.
+To add a new template, click the **Add template** button on the top right hand side of the page and select a template type from the predefined list.
 
 <figure><img src="../.gitbook/assets/image (231).png" alt="" width="163"><figcaption><p>The list of template types you can add.</p></figcaption></figure>
 
 ### Adding Categories and Medications
 
-To add a medication, you will first need to create a category. Click on the **+ Add Category button,** and enter the name of the category. e.g., Hormone Replacement Therapy, Sexual Wellness for Men, Hair Loss, etc.
+To add a medication, create a category by clicking the **Add Category** button and entering the name of the category, such as Hormone Replacement Therapy, Sexual Wellness for Men, Hair Loss, etc.
 
 Next, expand the category line by clicking on the down arrow on the right side, and click on the **+ Add Medication** button to enter the medication details. Note that you may enter multiple sig options. To tie a product to a medication entry in the template, click the plus button under **Doses**, enter the appropriate dose(s) in the first box, and select the ION product in the second box.
 

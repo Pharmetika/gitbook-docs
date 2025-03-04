@@ -186,7 +186,7 @@
   * [Adding Products with Special Invoicing to the Organization](maintenance/organizations/adding-products-with-special-invoicing-to-the-organization.md)
   * [Adding Providers to the Organization](maintenance/organizations/adding-providers-to-the-organization.md)
   * [Adding Price Plans and Prescribers](maintenance/organizations/adding-price-plans-and-prescribers.md)
-  * [Billing to Organization](maintenance/organizations/billing-to-organization.md)
+  * [Billing to Organizations](maintenance/organizations/billing-to-organization.md)
 * [Third Party Payers](maintenance/third-party-payers/README.md)
   * [How to Add a New Third Party Payer](maintenance/third-party-payers/how-to-add-a-new-third-party-payer.md)
 * [Shortcut Manager](maintenance/shortcut-manager/README.md)
@@ -267,7 +267,7 @@
 
 ***
 
-* [CHAT](chat.md)
+* [Chat](chat.md)
 
 ## SUPPLEMENTAL GUIDES
 
