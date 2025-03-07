@@ -22,14 +22,14 @@
   * [Lot Creation FAQs](task-queue/create-a-lot/lot-creation-faqs.md)
 * [Pharmacist Check - Lot Tasks](task-queue/pharmacist-check-lot/README.md)
   * [Disallow Negative Inventory](task-queue/pharmacist-check-lot/disallow-negative-inventory.md)
-* [How to Approve and Quarantine](task-queue/how-to-approve-and-quarantine/README.md)
+* [How to Approve and Quarantine a Lot](task-queue/how-to-approve-and-quarantine/README.md)
   * [Viewing Quarantined Lots](task-queue/how-to-approve-and-quarantine/viewing-quarantined-lots.md)
   * [Rejecting Quarantined Lots](task-queue/how-to-approve-and-quarantine/rejecting-quarantined-lots.md)
   * [Releasing Quarantined Lots](task-queue/how-to-approve-and-quarantine/releasing-quarantined-lots.md)
   * [Saving Edits to Quarantined Lots](task-queue/how-to-approve-and-quarantine/saving-edits-to-quarantined-lots.md)
   * [Quarantining Existing Lots](task-queue/how-to-approve-and-quarantine/quarantining-existing-lots.md)
 * [Lot Rework Tasks](task-queue/lot-rework.md)
-* [Inventory Receipt Review](task-queue/inventory-receipt-review.md)
+* [Inventory Receipt Review Tasks](task-queue/inventory-receipt-review.md)
 * [Changing the Due Date on a Task](task-queue/changing-the-due-date-on-a-task.md)
 
 ## Formulas
