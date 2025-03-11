@@ -1,6 +1,7 @@
 # Table of contents
 
 * [CHANGELOGS](README.md)
+  * [2025-03-12](readme/2025-03-12.md)
   * [2025-02-26](readme/2025-02-26.md)
   * [2025-02-12](readme/2025-02-12.md)
   * [2025-01-29](readme/2025-01-29.md)
@@ -232,6 +233,7 @@
   * [Restrictions](utilities/system-configurations/restrictions.md)
   * [State Settings](utilities/system-configurations/state-settings/README.md)
     * [Configuring Shipping to Allowed States](utilities/system-configurations/state-settings/configuring-shipping-to-allowed-states.md)
+    * [Configuring SFTP Credentials by State](utilities/system-configurations/state-settings/configuring-sftp-credentials-by-state.md)
     * [Adding Products to a State-Specific Exclusion List](utilities/system-configurations/state-settings/adding-products-to-a-state-specific-exclusion-list.md)
   * [Tax Settings](utilities/system-configurations/tax-settings.md)
   * [Pharmacist in Charge](utilities/system-configurations/pharmacist-in-charge.md)
