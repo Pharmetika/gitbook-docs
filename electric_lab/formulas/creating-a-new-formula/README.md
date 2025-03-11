@@ -27,9 +27,9 @@ Add ingredients to the formula by searching the ingredient field. Enter quantity
 
 <figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
 
-* **Details Section:** Enter formula stability, chemical compatibility, packaging, storage and final appearance.
+* **Details Section:** Enter formula stability, chemical compatibility, packaging, storage and final appearance, and label physical description.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (109).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Details section with physical label field.png" alt=""><figcaption></figcaption></figure>
 
 * **Document Section:** Upload a document or take a photo of the document using a connected camera. Patient handouts attached to the formula can be printed in the dispense system (ION).
 
