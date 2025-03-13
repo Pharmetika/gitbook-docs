@@ -37,7 +37,7 @@
 
 * [Creating a New Formula](formulas/creating-a-new-formula/README.md)
   * [BUD Exception](formulas/creating-a-new-formula/bud-exception.md)
-* [Configuring Unit-Dose Labels](formulas/configuring-unit-dose-labels.md)
+* [Configuring Unit-Dose Labels](../formulas/configuring-unit-dose-labels.md)
 * [Formula Search](formulas/formula-search.md)
 
 ## Inventory
