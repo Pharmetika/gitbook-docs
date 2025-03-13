@@ -53,10 +53,11 @@
 ## Configuration
 
 * [Configuring Equipment](configuration/configuring-equipment/README.md)
+  * [Integrating Lab Equipment with ElectricLab](configuration/configuring-equipment/integrating-lab-equipment-with-electriclab.md)
   * [Connecting a Scale Via Direct USB](configuration/configuring-equipment/connecting-a-scale-via-direct-usb.md)
-  * [Setting Up a Brother Printer Via Wi-Fi](configuration/configuring-equipment/setting-up-a-brother-printer-via-wi-fi.md)
+  * [Using Brother Printers with WiFi](configuration/configuring-equipment/setting-up-a-brother-printer-via-wi-fi.md)
   * [Using ElectricLab Adapter Printers](configuration/configuring-equipment/using-electriclab-adapter-printers.md)
-  * [Installing BrowserPrint](configuration/configuring-equipment/installing-browserprint/README.md)
+  * [Using BrowserPrint Printers](configuration/configuring-equipment/installing-browserprint/README.md)
     * [Installing on Windows](configuration/configuring-equipment/installing-browserprint/installing-on-windows.md)
     * [Installing on MacOS](configuration/configuring-equipment/installing-browserprint/installing-on-macos.md)
 * [Managing Manufacturers](configuration/managing-manufacturers.md)
