@@ -7,6 +7,7 @@ Users can select which report they want to view. Depending on which report, some
 <figure><img src="../.gitbook/assets/image (319).png" alt="" width="563"><figcaption></figcaption></figure>
 
 * **A/S without next fill dates:** A list of prescriptions that have been set to autoship but have not been assigned a start/resume date.
+* **Active Patients:** A list of active patients. You can filter this report by active prescription status.
 * **Autoship - Active Patients:** A list of patients that have autoship enabled at the patient profile level.
 * **Autoship Patients without A/S Rxs:** A list of patients that have autoship enabled at the patient profile level but do not have any prescriptions with autoship enabled.
 * **Autoship Refill Authorization Required:** A list of prescriptions that have autoship enabled but have no refills remaining.
