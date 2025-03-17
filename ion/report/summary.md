@@ -2,7 +2,7 @@
 
 Users can select which report they want to view. Depending on which report, some will automatically generate a report and have a pop up tab open. Others will have a pop up showing a date range needed, then click **Submit** for the report to generate.
 
-<figure><img src="../.gitbook/assets/image (317).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/All Reports.png" alt="The Reports screen shows a number of report buttons."><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (319).png" alt="" width="563"><figcaption></figcaption></figure>
 
