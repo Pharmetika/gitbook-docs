@@ -120,6 +120,7 @@
     * [Emailing a Payment Link](patient/payments/managing-payment-sources/emailing-a-payment-link.md)
     * [SMSing a Payment Link](patient/payments/managing-payment-sources/smsing-a-payment-link.md)
     * [Adding Payment for Organizations](patient/payments/managing-payment-sources/how-to-add-payment-for-organizations.md)
+    * [Splitting Charges Between Multiple Payment Sources](patient/payments/managing-payment-sources/splitting-charges-between-multiple-payment-sources.md)
     * [Managing Primary and/or HSA Payments](patient/payments/managing-payment-sources/manage-payments-as-primary-and-or-hsa.md)
     * [Removing a Payment](patient/payments/managing-payment-sources/removing-a-payment.md)
   * [Setting Up Authorize.net](patient/payments/setting-up-authorize.net.md)
