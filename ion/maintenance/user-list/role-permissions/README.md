@@ -29,7 +29,7 @@ Default permissions are added for the various user types. It is up to the pharma
 
 ### Organization Permissions
 
-| Role                            | Default Permission     |
+| Role                            | Default Permissions    |
 | ------------------------------- | ---------------------- |
 | Create Organizations            | Technician, Pharmacist |
 | Modify Existing Organizations   | Technician, Pharmacist |
@@ -37,7 +37,7 @@ Default permissions are added for the various user types. It is up to the pharma
 
 ### Prescriber Permissions
 
-| Role                                     | Default Permission     |
+| Role                                     | Default Permissions    |
 | ---------------------------------------- | ---------------------- |
 | Create Prescriber Profiles               | Technician, Pharmacist |
 | Modify Prescriber Profile                | Technician, Pharmacist |
@@ -99,7 +99,7 @@ Default permissions are added for the various user types. It is up to the pharma
 
 ### Lab Permissions
 
-| Role                                      | Default Permission             |
+| Role                                      | Default Permissions            |
 | ----------------------------------------- | ------------------------------ |
 | Print Unit Dose Label                     | Lab Technician, Lab Pharmacist |
 | <p>Release Lot from Quarantine</p><p></p> | Lab Technician, Lab Pharmacist |
