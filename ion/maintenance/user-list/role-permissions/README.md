@@ -1,6 +1,6 @@
 # Role Permissions
 
-Ability for new and existing users to enable or disable user permissions.
+New and existing users can enable or disable user permissions.
 
 ### User Types
 
@@ -13,10 +13,8 @@ Ability for new and existing users to enable or disable user permissions.
 * **Lab Technician:**  A user that has a pharmacy technician or technician trainee license. Their role is to compound in ElectricLab.
 * **Handoff:**  An internal user type used on tablets to allow patients to sign for the receipt of medications.
 * **Point-of-Sale:**  An internal user type used on tablets for patient handoff and payments.
-* **Interface:**  An internal user type for API integrations.
-  * Does not apply to most users.
-* **Service:**  An internal user type to create credentials for API integrations.
-  * Does not apply to most users.
+* **Interface:**  An internal user type for API integrations. Does not apply to most users.
+* **Service:**  An internal user type to create credentials for API integrations. Does not apply to most users.
 * **Note: Once a user has been created, the user type may not be changed. Ensure that the pharmacy chooses the appropriate user type when creating a new user.**
   * **If the user type is no longer appropriate for the existing user, the pharmacy may update the user in the following ways.**
     * &#x20;**The pharmacy must deactivate the current user and create a new user with the appropriate updated user type.**
