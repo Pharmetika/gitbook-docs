@@ -40,7 +40,7 @@ Default permissions are added for the various user types. It is up to the pharma
 | Role                                     | Default Permission     |
 | ---------------------------------------- | ---------------------- |
 | Create Prescriber Profiles               | Technician, Pharmacist |
-| Modify Prescriber profileP               | Technician, Pharmacist |
+| Modify Prescriber Profile                | Technician, Pharmacist |
 | Invite Prescriber to Practitioner Portal | Technician, Pharmacist |
 
 ### Shipping Permissions
