@@ -1,5 +1,12 @@
 # Deactivate a User
 
-To deactivate, users must change the status of whom they are deactivating **IF** the user is not in use and could possibly be used again in the future. If a user will no longer be a part of the system, then you may click **Deactivate User** instead of changing the status.
+{% hint style="info" %}
+_Deactivating a user is permanent_. After you deactivate a user, you can't reactivate that user again. Make sure to deactivate a user only when you know the user is no longer needed in the system.
+{% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (523).png" alt=""><figcaption></figcaption></figure>
+To deactivate a user:&#x20;
+
+1. Go to Maintenance > User List and click the **Edit** button for the user you want to deactivate.
+2. Click **Deactivate User**.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
