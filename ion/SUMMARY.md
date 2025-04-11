@@ -275,6 +275,8 @@
 
 ## SUPPLEMENTAL GUIDES
 
+* [Central Fill](supplemental-guides/central-fill.md)
+* [Central Prescription Management](supplemental-guides/central-prescription-management.md)
 * [Allowing Camera Access](supplemental-guides/allowing-camera-access.md)
 * [Installing BrowserPrint for Zebra Printers](supplemental-guides/installing-browserprint/README.md)
   * [Installing on Windows](supplemental-guides/installing-browserprint/installing-on-windows.md)
