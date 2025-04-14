@@ -45,10 +45,10 @@ Default permissions are added for the various user types. It is up to the pharma
 
 ### Shipping Permissions
 
-| Role                  | Default Permissions                      |
-| --------------------- | ---------------------------------------- |
-| Create Shipping Label | Technician, Pharmacist, Customer Support |
-| Void Shipping Label   | Technician, Pharmacist, Customer Support |
+| Role                   | Default Permissions                      |
+| ---------------------- | ---------------------------------------- |
+| Create Shipping Labels | Technician, Pharmacist, Customer Support |
+| Void Shipping Labels   | Technician, Pharmacist, Customer Support |
 
 ### Product Permissions
 
