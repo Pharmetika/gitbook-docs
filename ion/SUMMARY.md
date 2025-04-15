@@ -124,7 +124,7 @@
     * [Managing Primary and/or HSA Payments](patient/payments/managing-payment-sources/manage-payments-as-primary-and-or-hsa.md)
     * [Removing a Payment](patient/payments/managing-payment-sources/removing-a-payment.md)
   * [Setting Up Authorize.net](patient/payments/setting-up-authorize.net.md)
-  * [Rebilling a Fill](patient/payments/rebilling-a-fill.md)
+  * [Re-Billing a Fill](patient/payments/rebilling-a-fill.md)
   * [Taxes on Patient Payments](patient/payments/taxes-on-patient-payments.md)
   * [Unbilled Items](patient/payments/unbilled-items.md)
   * [Creating Custom Payment Stations](patient/payments/creating-custom-payment-stations.md)
