@@ -21,7 +21,6 @@ If the user type is no longer appropriate for the existing user, the pharmacy ca
 * **Handoff:** An internal user type used on tablets to allow patients to sign for the receipt of medications.
 * **Point-of-Sale:** An internal user type used on tablets for patient handoff and payments.
 * **Interface:** An internal user type for API integrations. Does not apply to most users.
-* **Service:** An internal user type to create credentials for API integrations. Does not apply to most users.
 
 ## Default Permissions
 
