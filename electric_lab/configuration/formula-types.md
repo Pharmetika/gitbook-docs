@@ -1,6 +1,6 @@
 # Formula Types
 
-Allows you to create templated instructions and tasks (e.g., if all topical ointments are compounded using the same instructions and tasks, creating a “topical ointment” formula type allows you to import the formula type instructions and tasks to any formula labeled a “topical ointment” on its master formula record).
+Formula types allow you to create templated instructions and tasks. For example, if all topical ointments are compounded using the same instructions and tasks, creating a topical ointment formula type allows you to import the formula type instructions and tasks to any formula labeled a “topical ointment” on its master formula record.
 
 Enter the template name, station type and compounding instructions. &#x20;
 
