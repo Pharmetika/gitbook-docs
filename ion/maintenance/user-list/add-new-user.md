@@ -1,6 +1,6 @@
 # Add New User
 
-ION
+## ION
 
 1. Under **Maintenance**, open the User List and click the **New User** button.&#x20;
 
