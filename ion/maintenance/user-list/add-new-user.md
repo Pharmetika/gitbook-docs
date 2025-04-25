@@ -23,5 +23,5 @@
 
 <figure><img src="../../.gitbook/assets/image (521).png" alt=""><figcaption></figcaption></figure>
 
-* Once the User Type has been selected, the permissions will display and can be modified based on pharmacy preference. To view the permissions, click the drop down on the permissions.
+* Once the User Type has been selected, the permissions display and can be modified based on pharmacy preference. To view the permissions, click the drop down on the permissions.
 * Once the permissions have been modified, click **Save User**. This will create a new user profile and the new user will receive an email with their username and password to the email entered in the email field.
