@@ -64,6 +64,8 @@
   * [iPad Settings for ElectricLab](configuration/system-settings/ipad-settings-for-electriclab.md)
   * [Allowing Camera Access](configuration/system-settings/allowing-camera-access.md)
 * [Action Barcodes](configuration/action-barcodes.md)
+* [Create Users](configuration/create-users/README.md)
+  * [Role Permissions](configuration/create-users/role-permissions.md)
 * [SOPs](configuration/sops.md)
 
 ***
