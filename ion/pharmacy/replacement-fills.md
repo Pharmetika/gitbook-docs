@@ -2,14 +2,14 @@
 
 Open the fill that needs to be replaced in the dispensing queue.
 
-<figure><img src="../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Dispensing SS.png" alt=""><figcaption></figcaption></figure>
 
-Scan a lot to dispense, check the 'Replacement Dispense' checkbox, and add a reason if applicable.
+Scan a lot to dispense, select the **Replacement Dispense** checkbox, and add a reason if applicable.
 
-<figure><img src="../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Shipment lost.png" alt=""><figcaption></figcaption></figure>
 
-This will then be reflected in the dispense data.
+This reason appears in the dispense data.
 
-<figure><img src="../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Replacement reason.png" alt=""><figcaption></figcaption></figure>
 
-After marking the dispense checked, the fill will be returned to "Checked" status, and is ready to be verified and shipped again.
+After you mark the dispense checked, the fill is returned to Checked status, and is ready to be verified and shipped again.
