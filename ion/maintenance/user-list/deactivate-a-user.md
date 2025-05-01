@@ -9,4 +9,4 @@ To deactivate a user:&#x20;
 1. Go to Maintenance > User List and click the **Edit** button for the user you want to deactivate.
 2. Click **Deactivate User**.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

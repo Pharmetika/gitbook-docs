@@ -1,6 +1,6 @@
 # Practitioners
 
-## Overview
+Overview
 
 The Practitioners page contains a comprehensive list of Provider Portal practitioner accounts. From this screen, the pharmacy can:&#x20;
 
@@ -15,12 +15,16 @@ The Practitioners page contains a comprehensive list of Provider Portal practiti
 By default, the Practitioner List is a list of all practitioner Provider Portal accounts that your pharmacy is associated with.
 
 {% hint style="info" %}
-On smaller displays, the full width of this table might not fit on your screen. If this is the case, you can sscroll the table back and forth horizontally.
+On smaller displays, the full width of this table might not fit on your screen. If this is the case, you can scroll the table back and forth horizontally.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (571).png" alt=""><figcaption><p>A sample screenshot of what the practitioner list should look like.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Practitioner List.png" alt=""><figcaption></figcaption></figure>
 
-Clicking the blue letter icon after the name of the practitioner automatically begins an email to that practitioner.
+To automatically begin an email to a practitioner, click the blue letter icon after the name of that practitioner.
+
+The practitioner's primary clinic appears in the **Primary Clinic** column. To see all the clinics to which a practitioner is linked, hover over the blue list icon next to the practitioner's primary clinic.
+
+<figure><img src="../.gitbook/assets/see all clinics for practitioners.png" alt=""><figcaption></figcaption></figure>
 
 Clicking the link button in the Profile column takes you to the [Edit Prescriber](../maintenance/prescribers/) screen for that practitioner.
 
