@@ -29,10 +29,6 @@
   * [2024-05-10](readme/2024-05-10.md)
   * [2024-04-26](readme/2024-04-26.md)
 
-## Dashboard
-
-* [ION Task Queue](dashboard/tasks.md)
-
 ## Workflow
 
 * [Workflow Dashboard](workflow/dashboard.md)
