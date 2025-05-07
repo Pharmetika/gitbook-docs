@@ -38,6 +38,7 @@
 ## Formulas
 
 * [Creating a New Formula](formulas/creating-a-new-formula/README.md)
+  * [Formula Tasks and QA Tasks](formulas/creating-a-new-formula/formula-tasks-and-qa-tasks.md)
   * [BUD Exception](formulas/creating-a-new-formula/bud-exception.md)
 * [Configuring Unit-Dose Labels](../formulas/configuring-unit-dose-labels.md)
 * [Formula Search](formulas/formula-search.md)
