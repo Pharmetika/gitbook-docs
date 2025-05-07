@@ -29,6 +29,10 @@
   * [2024-05-10](readme/2024-05-10.md)
   * [2024-04-26](readme/2024-04-26.md)
 
+## Support
+
+* [Requesting Technical or Educational Support](support/requesting-technical-or-educational-support.md)
+
 ## Workflow
 
 * [Workflow Dashboard](workflow/dashboard.md)
