@@ -18,7 +18,7 @@ To automatically set both 'Bill To' lines to organization and the organization l
 
 If a prescriber writes prescriptions for multiple different external pharmacies, they might use the prescriber notes field to identify which organization should be billed for each prescription. ION can scan these notes and identify potential organizations for billing using key phrases you configure in the organization’s profile.
 
-In the example below, a prescriber submits a prescription that should be billed to Happy Clinic, LLC. The prescriber notes the clinic name in the prescriber notes. The profile for Happy Clinic, LLC is configured to identify the phrase “Happy Clinic” in the prescriber notes. As a result, when the prescription is entered, the system uses Happy Clinic, LLC as the default billing organization.
+In the example below, a prescriber submits a prescription that should be billed to Happy Clinic, LLC. The prescriber notes the clinic name in the prescription notes. The profile for Happy Clinic, LLC is configured to identify the phrase “Happy Clinic” in the prescription notes. As a result, when the prescription is entered, the system uses Happy Clinic, LLC as the default billing organization.
 
 <figure><img src="../../.gitbook/assets/Note to org conversion.png" alt=""><figcaption></figcaption></figure>
 
