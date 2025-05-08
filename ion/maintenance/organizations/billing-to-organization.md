@@ -13,3 +13,19 @@ To automatically set both 'Bill To' lines to organization and the organization l
 <figure><img src="../../.gitbook/assets/image (501).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (502).png" alt=""><figcaption></figcaption></figure>
+
+## Identifying Billing Organizations from Prescription Notes
+
+If a prescriber writes prescriptions for multiple different external pharmacies, they might use the prescriber notes field to identify which organization should be billed for each prescription. ION can scan these notes and identify potential organizations for billing using key phrases you configure in the organization’s profile.
+
+In the example below, a prescriber submits a prescription that should be billed to Happy Clinic, LLC. The prescriber notes the clinic name in the prescriber notes. The profile for Happy Clinic, LLC is configured to identify the phrase “Happy Clinic” in the prescriber notes. As a result, when the prescription is entered, the system uses Happy Clinic, LLC as the default billing organization.
+
+<figure><img src="../../.gitbook/assets/Note to org conversion.png" alt=""><figcaption></figcaption></figure>
+
+To set up key phrases for a specific organization, complete these steps:
+
+1. Open the organization’s profile (**Maintenance** > **Organizations** > select the organization).
+2. In the **eRx Clinic Match Text** field, enter the word or phrase you want to search. This field is not case-sensitive and searches using the phrase entered instead of individual words. For example, if you enter “Happy Clinic,” the system searches for the words “happy clinic” in that order, not for the individual words “happy” and “clinic.”
+3. Click **Save Organization** at the bottom of the page.
+
+<figure><img src="../../.gitbook/assets/eRX Clinic Match Text (1).png" alt=""><figcaption></figcaption></figure>
