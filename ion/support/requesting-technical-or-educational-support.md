@@ -27,11 +27,11 @@ Important notes: &#x20;
 
 <figure><img src="../.gitbook/assets/New help button EL.png" alt=""><figcaption><p>In ElectricLab, this icon looks like a user.</p></figcaption></figure>
 
-1. Click the support request button.
+2. Click the support request button.
 
-<figure><img src="../.gitbook/assets/select Request Support.png" alt="" width="368"><figcaption><p>In ION, and in ElectricLab, this button is called <strong>Request Support</strong>.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/select Request Support.png" alt="" width="368"><figcaption><p>In ION and in ElectricLab, this button is called <strong>Request Support</strong>.</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Technical Support in pp.png" alt=""><figcaption><p>n the Practitioner Portal, this button is called <strong>Technical Support</strong>.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Technical Support in pp.png" alt=""><figcaption><p>In the Practitioner Portal, this button is called <strong>Technical Support</strong>.</p></figcaption></figure>
 
 3. A support chat window appears and prompts you to select whether you need help with the system or to report a technical issue. If you select **Help with the system** for general guidance or how-to questions, you’ll be contacted by a member of our education team. If you select **Technical issue** to report an issue you’re experiencing, you’ll be contacted by a member of our technical support team.
 
