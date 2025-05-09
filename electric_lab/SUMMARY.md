@@ -10,6 +10,10 @@
   * [2024-12-18](changelogs/2024-12-18.md)
   * [2024-08-14](changelogs/2024-08-14.md)
 
+## Support
+
+* [Requesting Technical or Educational Support](support/requesting-technical-or-educational-support.md)
+
 ## Task Queue
 
 * [Summary](task-queue/readme.md)
