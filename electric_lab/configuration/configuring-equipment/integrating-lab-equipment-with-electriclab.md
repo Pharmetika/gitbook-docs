@@ -8,7 +8,7 @@ Equipment that outputs data, such as lab balances, connect to ElectricLab using 
 
 First, determine whether you plan to connect adapters to the internet using wifi or ethernet at your pharmacy. If you plan to use wifi, provide Pharmetika with the SSID and password so we can provision the adapters prior to shipping.
 
-Next, determine whether to connect adapters to balances using USB cords or RS232 cords, and purchase the cords of your choice. We recommend placing adapters outside of a fume hood to minimize powder accumulation inside the adapters. Additionally, locate your adapters so that both the power and USB or RS232 cords can maintain secure, tight connections. &#x20;
+Next, determine whether to connect adapters to balances using USB cords or RS232 cords, and purchase the[ cords of your choice.](#user-content-fn-1)[^1] We recommend placing adapters outside of a fume hood to minimize powder accumulation inside the adapters. Additionally, locate your adapters so that both the power and USB or RS232 cords can maintain secure, tight connections. &#x20;
 
 Plug the USB cable into the USB port on the adapter without plugging in any other USB devices at the same time. Then, connect the other end to the balance's USB or RS-232 port. If you are connecting with ethernet, be sure the network cable is plugged in.
 
@@ -30,7 +30,7 @@ It is imperative that the 2D barcode on the adapter remain intact and adhered to
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdDueIg8d6CfPmAypG9bg1HnJfO5HdqWlyzkCN-viSmRVfyQzBY7y9BjMUXZ0-Lr6zt7_o6-b2Y05XdX0amc9wviAu_L2DdcFJGEA5BVqJoUGsT9_KZ5EuVgQxkSwyrLrg9EZSO?key=c4R9UCwhSEC89wzPsj5Vf7kw" alt="An existing equipment record is shown expanded."><figcaption><p>To select an existing equipment record, expand the record by clicking the arrows next to the device name.</p></figcaption></figure>
 
-## Using Adapters
+## Using Null Modem Adapters
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfNQT1CRTgA_lcoUCCRv-qnDISxfOPsV-zeD1S60eSWU0jjTIBzgLqvycIM7seiWq2YwW9wAq0iopGa0zkVfX2eInJywfCsiHIpsfr8C4RmxNoIDbyzXHXDawH2DnXYpeccE3ql7A?key=c4R9UCwhSEC89wzPsj5Vf7kw" alt=""><figcaption></figcaption></figure>
 
@@ -87,3 +87,6 @@ The following table suggests vendor-specific setting recommendations and direct 
 
 
 
+
+
+[^1]: 
