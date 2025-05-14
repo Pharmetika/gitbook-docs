@@ -1,39 +1,29 @@
-# Remove Product/Organization from a Price Plan
+# Removing a Product or Organization from a Price Plan
 
-When deleting a price plan with a product or organization attached to it, the system will block the deletion and prompt you to remove the attachment first. The attachment can be either a product or an organization or it can be both. Removing the specific attachment prevents the price plan from being inadvertently removed from multiple products and/or organizations.
+If you attempt to delete a price plan with a product or organization link to it, the system prevents the deletion and prompts you to first unlink the product or organization. Removing the link prevents the price plan from being inadvertently removed from multiple products or organizations.
 
 {% hint style="danger" %}
-It is important to delete a product or an organization **from** a price plan and not the other way around.
+It is important to remove a product or an organization **from** a price plan instead of attempting to remove the price plan from within the product or organization.
 {% endhint %}
 
-## How to Remove a Product from a Price Plan
+Go to **Maintenance** > **Price Plans** and click the **Edit** button on the right side of the price plan to open it.
 
-Click the **Edit** button on the right side of the desired product in the Price Plan page to open the price plan
+<figure><img src="../../.gitbook/assets/Price Plans.png" alt="The Edit buttons for three price plans are highlighted."><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure>
+To remove a product in the **Product Using Price Plan** section, click the red circle button on the right side of the product.
 
-To remove the product under Product Using Price Plan, click the red circle button on the right-hand side.
+<figure><img src="../../.gitbook/assets/Remove product from price plan.png" alt="The red circle button to unlink a product from a price plan is highlighted."><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2024-08-05 at 9.06.04 PM.png" alt=""><figcaption></figcaption></figure>
+To remove an organization in the **Organizations Using Price Plan** section, click on the link icon to open the organization's profile.
 
-## How to Remove an Organization from a Price Plan
+<figure><img src="../../.gitbook/assets/Remove org from price plan.png" alt="The link icon to open a link to an organization is highlighted."><figcaption></figcaption></figure>
 
-Click the **Edit** button on the right side of the desired product in the Price Plan page to open the price plan
+In the **Manage Organization-level Price Plans** section, delete the price plan by clicking the black circle button. Then, click the **Save Organization** button at the bottom of the page.
 
-<figure><img src="../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Manage Org Level Price Plans (1).png" alt="The black circle button to unlink an organization from a price plan is highlighted."><figcaption></figcaption></figure>
 
-Click on the link <img src="../../.gitbook/assets/image (268).png" alt="" data-size="line"> to open the organization profile page.
+If you attempt to remove a price plan that is currently linked to a product or organization, the system prevents the deletion and an alert message appears that prompts you to unlink the product or organization before you delete the price plan.
 
-<figure><img src="../../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Delete price plan.png" alt="When you click Delete for a price plan, the following warning message appears: &#x22;Are you sure you want to delete this plan?&#x22; You can select No, Thanks or OK."><figcaption></figcaption></figure>
 
-Find the Manage Organization-level Price Plans section, delete the desired price plan, and click **Save Organization** at the bottom of the page
-
-<figure><img src="../../.gitbook/assets/Screenshot 2024-08-05 at 9.59.56 PM.png" alt=""><figcaption></figcaption></figure>
-
-**FAQ:** What happens if a user tries to remove a price plan that has attachments?
-
-The system will block the deletion and an alert will appear to remove the attachments first before deleting the price plan
-
-<figure><img src="../../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (265).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Price plan deletion warning.png" alt="A warning message states, &#x22;Price plan still attached to products or organizations, please remove before deleting&#x22;"><figcaption></figcaption></figure>

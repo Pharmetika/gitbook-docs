@@ -174,7 +174,7 @@
   * [Flavored Products](maintenance/dispensing-devices/flavored-products.md)
 * [Price Plans](maintenance/price-plans/README.md)
   * [Adding a Price Plan to a Product](maintenance/price-plans/adding-a-price-plan-to-a-product.md)
-  * [Remove Product/Organization from a Price Plan](maintenance/price-plans/remove-product-organization-from-a-price-plan.md)
+  * [Removing a Product or Organization from a Price Plan](maintenance/price-plans/remove-product-organization-from-a-price-plan.md)
 * [Creating New Discount Plans](maintenance/creating-new-discount-plans/README.md)
   * [Assigning Discount Plans](maintenance/creating-new-discount-plans/assigning-discount-plans.md)
   * [Filling Prescriptions with Discounts](maintenance/creating-new-discount-plans/filling-prescriptions-with-discounts.md)
