@@ -5,11 +5,11 @@ Create a new workflow by clicking **+ New Workflow.** This action will open a bl
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-04 at 9.00.25 AM.png" alt="" width="341"><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-04 at 9.01.50 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Worflow option image.png" alt=""><figcaption></figcaption></figure>
 
 Once the desired settings have been selected, click **Save Workflow** and **Save in System Configurations**. The workflow will now display in the Workflows section of **System Configuration** and can be used in prescription entry.
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-04 at 9.05.59 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/configured workflow image.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-04 at 9.07.18 AM.png" alt="" width="212"><figcaption></figcaption></figure>
 
@@ -30,6 +30,9 @@ Once the desired settings have been selected, click **Save Workflow** and **Save
 * **Send Shipment Notifications**
   * This option will allow shipping notifications to be sent to the patients if this workflow is selected on prescription entry.
     * When creating a new workflow, this will automatically be checked off. If the pharmacy does not want shipping notifications to be sent to the patients, remove this selection before saving the workflow.
+* **Notify on Prescription Ready for Pickup**
+  * This option will allow a pick up notification to be sent to the patient if this workflow is selected on prescription entry. The notification will be sent via email or SMS once the prescription has been scanned into the ready-pickup queue.&#x20;
+    * If this option is not selected the patient will not be notified when the prescription is scanned into the ready-pickup queue and the pharmacy will need to notify the patient manually.
 * **Skip Ready Queue barcodes**
   * This option will skip the scanning of the ready queue barcode when filling orders in the dispensing queue.
 * **Default Handoff Method**
