@@ -1,27 +1,37 @@
 # New Order
 
-To create a new order, users will add patients to the order by searching their names in the search box under **Add Patient**_._
+1. There are multiple ways to begin creating a new order:
 
-* **Note:** Users can add more than one patient to the same order.
+* You can create a new order from the **Orders** section of the **Patient Summary**. When you create an order this way, that patient is automatically added to the new order.
 
-<figure><img src="../../.gitbook/assets/image (414).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Create Order from the patient&#x27;s Order section.png" alt=""><figcaption></figcaption></figure>
 
-Once the patients have been added, click the three bullet points next to the name to add prescriptions.
+* You can create a new order by clicking the **Orders** button on the left sidebar, then clicking **New Order** in the **Orders** menu.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/New Order from Orders Activity.png" alt=""><figcaption></figcaption></figure>
 
-To add prescriptions, check the boxes of all medications wanting to be filled, then click **Add to Order**_._
+* You can create an order from the **Prescription Entry** activity. For more information, refer to the [Create an Order from Prescription Entry](create-an-order-from-prescription-entry.md) topic.
 
-<figure><img src="../../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
+2. Add a patient to the order by searching their name in the search box under **Add Patient**_._ Users can add more than one patient to the same order.
 
-Once medications have been added, they will show below.
+<figure><img src="../../.gitbook/assets/Add Patient to new order.png" alt=""><figcaption></figcaption></figure>
 
-If additional medications need to be added, click in the search bar under **Add Item** where it will list all medications along with the patient name next to them, then click **Add**_._
+2. Click the bullet point icon next to the patient's name to add prescriptions.
 
-<figure><img src="../../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Three bullet points next to patient name.png" alt=""><figcaption></figcaption></figure>
 
-Fill out the information, then click **Submit**_._
+3. Select the checkboxes for all the medications you want to fill, then click **Add to Order**_._ Once medications have been added, they appear in the **Order Items** section of the order.
 
-* **Note:** If an order is to be paid by an organization, choose the organization first before filling out the rest of the information.
+<figure><img src="../../.gitbook/assets/Patient Prescription List Adding to Order.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+4. If you want to add more medications, click in the search bar under **Add Item**, select the medication, and click **Add**_._
+
+<figure><img src="../../.gitbook/assets/Additional rx to order.png" alt=""><figcaption></figcaption></figure>
+
+5. If the order is being billed to an organization, select that organization in the **Organization** field and select the **Organization Pay** checkbox.
+
+<figure><img src="../../.gitbook/assets/Organization Pay in new order.png" alt=""><figcaption></figcaption></figure>
+
+6. Enter the rest of the order information, including the patient's shipping addressm delivery method, payment method, and a date range for the order.
+7. To save the order you created, click **Submit Order.**
+

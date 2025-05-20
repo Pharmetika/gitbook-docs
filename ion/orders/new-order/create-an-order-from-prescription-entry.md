@@ -1,18 +1,15 @@
 # Create an Order from Prescription Entry
 
-Users can create an order from a prescription entry by checking the option **Add to Order**_._
+Users can create an order from a prescription entry by selecting the **Add to Order** checkbox in the **Prescription - Original** sectio&#x6E;_._
 
-<figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Add to Order Checkbox in Rx Entry.png" alt=""><figcaption></figcaption></figure>
 
-An order options box with a Create Order button will display on the right side of the page once 'Add to Orde&#x72;_'_ has been selected.
+When the **Add to Order** checkbox is selected, the **Order Options** section appears in Prescription Entry. From here, click the **Create Order** button.
 
-<figure><img src="../../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Order Options section in Rx Entry.png" alt=""><figcaption></figcaption></figure>
 
-Once **Create Order** is selected, the Manage Order screen will display as a side window. The user will fill out the order options.
+When you click the **Create Order** button, the **Manage Order** side window appears. Enter order information here.
 
-* After filling out the order options, close out of the order by clicking the **X** at the top right of the manage order screen or hitting the **Esc** key. The order option selections will now display on the prescription entry. The order with the order options selected will be created upon saving the prescription entry as in-process or ready for verification.
-* Continue typing remaining prescriptions, if any. The 'Add to Order' checkbox will stay checked off and any remaining prescriptions will be added to the order.
+After filling out the order options, close the order by clicking the **X** button at the top right of the **Manage Order** screen or pressing the **Esc** key. The order with the order options selected is created when the user saves the prescription as in-process or ready for verification.
 
-<figure><img src="../../.gitbook/assets/image54.jpeg" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image230.jpeg" alt=""><figcaption></figcaption></figure>
+Continue entering any remaining prescriptions. The **Add to Order** checkbox remains selected and any remaining prescriptions are automatically added to the order.
