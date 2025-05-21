@@ -1,18 +1,19 @@
-# Submit Order and Send Intent
+# Submitting an Order and Sending an Intent
 
 ### From Prescription Entry
 
-* Once the last prescription on the New Prescription task has been entered, mark the task ready for verification and **Save**. The user can then go into the order from the prescription entry by clicking on **Create Order**, scrolling down to Submit Order and **Submit Order & Send Intent**.
-  * **Note:** Only click **Submit Order** or **Submit Order & Send Intent** once all prescriptions have been added to the order.
-* If the user selects Submit Order & Send Intent, the order will update to show that an intent has been sent.
+Once the last prescription in the **New Prescription** task has been entered, mark the task ready for verification and click **Save**. The user can then go into the order from the prescription entry by clicking on **Create Order**, scrolling down, and clicking **Submit Order & Send Intent**.
+
+Only click **Submit Order** or **Submit Order & Send Intent** after all prescriptions have been added to the order.
+
+If the user clicks **Submit Order & Send Intent**, the order is updated to show that an intent has been sent.
 
 ### From Prescription Entry Verification
 
-* The intent can also be sent from prescription entry verification. In prescription entry verification, the blue button will change to **Edit Order**. Once selected, the manage order screen will display as a side window. The pharmacist can verify all information filled out in the order and select **Submit Order & Send Intent** or **Send Order Review Request.**
-  * If an Intent was sent to the patient in prescription entry, this will display on the order in prescription entry verification.
+The intent can also be sent from prescription entry verification. In prescription entry verification, the blue button will change to **Edit Order**. Once clicked, the **Manage Order** screen appears as a side window. The pharmacist can verify all information filled out in the order and click **Submit Order & Send Intent** or **Send Order Review Request.**
 
-<div><figure><img src="../../.gitbook/assets/image231.png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image252.png" alt="" width="210"><figcaption></figcaption></figure></div>
+If an Intent was sent to the patient in prescription entry, this intent appears on the order in prescription entry verification.
 
-<figure><img src="../../.gitbook/assets/image (278).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Intent to Pay 1 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (279).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Intent to Pay 2.png" alt=""><figcaption></figcaption></figure>

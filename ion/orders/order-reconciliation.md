@@ -1,9 +1,9 @@
-# Order Reconciliation
+# Reconciling an Order
 
-Shows all existing orders that need to be reconciled before being fulfilled for shipment.
+The **Order Reconciliation** queue shows existing orders that need to be reconciled before being fulfilled for shipment.
 
-<figure><img src="../.gitbook/assets/image (409).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Order Rec queue.png" alt=""><figcaption></figcaption></figure>
 
-Once all items to an order are ready, the user can click on the order to move it into the **Order Fulfillment Queue**.
+Once all items for an order are ready, the user can click on the order to move it into the **Order Fulfillment Queue**.
 
-<figure><img src="../.gitbook/assets/image (410).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Order Rec scanning.png" alt=""><figcaption></figcaption></figure>
