@@ -1,4 +1,4 @@
-# New Order
+# Creating and Using Orders
 
 1. There are multiple ways to begin creating a new order:
 
@@ -35,3 +35,26 @@
 6. Enter the rest of the order information, including the patient's shipping addressm delivery method, payment method, and a date range for the order.
 7. To save the order you created, click **Submit Order.**
 
+## Adding a Prescription in Ready Status to an Order
+
+Prescriptions with a status of Ready can be added to an order by scanning the transaction ID on the prescription label. After scanning, the patient and prescription details appear on the screen within a few seconds. This feature is useful for pharmacies that want to quickly add ready prescriptions to an order for shipping and invoicing.
+
+<figure><img src="../../.gitbook/assets/Transaction  ID scan on label.png" alt=""><figcaption></figcaption></figure>
+
+Scan the transaction ID barcode into the **Add Item** field to load the patient and prescription information on the screen.
+
+<figure><img src="../../.gitbook/assets/Add Item field in order.png" alt=""><figcaption></figcaption></figure>
+
+## Filling Orders
+
+To fill items in an order, find the order, either in the **Orders** section in the Patient Summary, or in the **Order Queue.**
+
+Once you've found the order you want to fill items for, use the arrow on the left side to expand the order. Once the order is expanded, you'll see **Fill** buttons for each item that has not yet been filled.&#x20;
+
+<figure><img src="../../.gitbook/assets/Fill button for order rx.png" alt=""><figcaption></figcaption></figure>
+
+When you click this button to fill an item, the quantity, handoff method, notes, ready-by date, and priority are automatically filled with what was selected for the order.
+
+Once you fill an item, the order is updated to indicate that item has been filled.
+
+<figure><img src="../../.gitbook/assets/Filled indicator.png" alt=""><figcaption></figcaption></figure>

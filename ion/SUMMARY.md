@@ -87,22 +87,21 @@
 
 ## Orders
 
-* [Orders Queue](orders/orders-queue.md)
-* [Creating and Using Orders](orders/creating-and-using-orders/README.md)
-  * [Creating an Invoice for an Order](orders/creating-and-using-orders/creating-an-invoice-for-an-order.md)
-  * [Adding Shipment Costs Without Generating an Order Invoice](orders/creating-and-using-orders/adding-shipment-costs-without-generating-an-order-invoice.md)
-  * [Managing Shipments for Orders Still in the Pharmacy](orders/creating-and-using-orders/managing-shipments-for-orders-still-in-the-pharmacy.md)
-  * [Order Reconciliation](orders/creating-and-using-orders/order-reconciliation.md)
-  * [Order Fulfillment](orders/creating-and-using-orders/order-fulfillment.md)
+* [Using the Orders Queue](orders/orders-queue.md)
+* [Creating and Using Orders](orders/new-order/README.md)
+  * [Creating an Order from Prescription Entry](orders/new-order/create-an-order-from-prescription-entry.md)
+  * [Add to Existing Order](orders/new-order/add-to-existing-order.md)
+  * [Creating an Invoice for an Order](orders/new-order/creating-an-invoice-for-an-order.md)
+  * [Adding Shipment Costs Without Generating an Order Invoice](orders/new-order/adding-shipment-costs-without-generating-an-order-invoice.md)
+  * [Order Fulfillment](orders/new-order/order-fulfillment.md)
+  * [Managing Shipments for Orders Still in the Pharmacy](orders/new-order/managing-shipments-for-orders-still-in-the-pharmacy.md)
+  * [Order Reconciliation](orders/new-order/order-reconciliation.md)
 * [Canceling an Order](orders/canceling-an-order/README.md)
   * [Reactivating an Order](orders/canceling-an-order/reactivating-an-order.md)
-* [Order Reconciliation](orders/order-reconciliation.md)
-* [Order Fulfillment](orders/order-fulfillment.md)
-* [New Order](orders/new-order/README.md)
-  * [Create an Order from Prescription Entry](orders/new-order/create-an-order-from-prescription-entry.md)
-  * [Add to Existing Order](orders/new-order/add-to-existing-order.md)
-* [Send Intent to Pay](orders/send-intent-to-pay/README.md)
-  * [Submit Order and Send Intent](orders/send-intent-to-pay/submit-order-and-send-intent.md)
+* [Reconciling an Order](orders/order-reconciliation.md)
+* [Fulfilling an Order](orders/order-fulfillment.md)
+* [Sending an Intent to Pay](orders/send-intent-to-pay/README.md)
+  * [Submitting an Order and Sending an Intent](orders/send-intent-to-pay/submit-order-and-send-intent.md)
 
 ## Patient
 

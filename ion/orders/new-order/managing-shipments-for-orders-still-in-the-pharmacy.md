@@ -4,7 +4,7 @@ Pharmacies can reprint or void an existing shipping label and generate a new one
 
 When an existing label is voided and a new shipment is created, the original shipment identifier remains, but a new tracking ID is linked to the order. The order ID continues to link to the shipment charge on the patient's or organization's payment page. This feature ensures that only one shipment ID is associated with the order.
 
-<figure><img src="../../.gitbook/assets/image (610).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Existing Shipment Found.png" alt=""><figcaption></figcaption></figure>
 
 ## Creating a Shipment for a Replacement in an Order
 
