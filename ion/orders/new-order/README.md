@@ -32,7 +32,7 @@
 
 <figure><img src="../../.gitbook/assets/Organization Pay in new order.png" alt=""><figcaption></figcaption></figure>
 
-6. Enter the rest of the order information, including the patient's shipping addressm delivery method, payment method, and a date range for the order.
+6. Enter the rest of the order information, including the patient's shipping address and delivery method, payment method, and a date range for the order.
 7. To save the order you created, click **Submit Order.**
 
 ## Adding a Prescription in Ready Status to an Order
