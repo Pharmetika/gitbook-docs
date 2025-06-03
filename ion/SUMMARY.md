@@ -1,6 +1,7 @@
 # Table of contents
 
 * [CHANGELOGS](README.md)
+  * [2025-06-04](readme/2025-06-04.md)
   * [2025-05-07](readme/2025-05-07.md)
   * [2025-04-25](readme/2025-04-25.md)
   * [2025-03-26](readme/2025-03-26.md)
@@ -236,6 +237,7 @@
   * [State Settings](utilities/system-configurations/state-settings/README.md)
     * [Configuring Shipping to Allowed States](utilities/system-configurations/state-settings/configuring-shipping-to-allowed-states.md)
     * [Configuring SFTP Credentials by State](utilities/system-configurations/state-settings/configuring-sftp-credentials-by-state.md)
+    * [Quickly Resubmitting Controlled Prescriptions to the PMP](utilities/system-configurations/state-settings/quickly-resubmitting-controlled-prescriptions-to-the-pmp.md)
     * [Adding Products to a State-Specific Exclusion List](utilities/system-configurations/state-settings/adding-products-to-a-state-specific-exclusion-list.md)
   * [Tax Settings](utilities/system-configurations/tax-settings.md)
   * [Pharmacist in Charge](utilities/system-configurations/pharmacist-in-charge.md)
