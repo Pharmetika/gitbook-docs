@@ -26,4 +26,4 @@ If you attempt to remove a price plan that is currently linked to a product or o
 
 <figure><img src="../../.gitbook/assets/Delete price plan.png" alt="When you click Delete for a price plan, the following warning message appears: &#x22;Are you sure you want to delete this plan?&#x22; You can select No, Thanks or OK."><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Price plan deletion warning.png" alt="A warning message states, &#x22;Price plan still attached to products or organizations, please remove before deleting&#x22;"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Price plan deletion warning (1).png" alt=""><figcaption></figcaption></figure>
