@@ -8,7 +8,7 @@ Equipment that outputs data, such as lab balances, connect to ElectricLab using 
 
 First, determine whether you plan to connect adapters to the internet using wifi or ethernet at your pharmacy. If you plan to use wifi, provide Pharmetika with the SSID and password so we can provision the adapters prior to shipping.
 
-Next, determine whether to connect adapters to balances using USB cords or RS232 cords, and purchase the[ cords of your choice.](#user-content-fn-1)[^1] We recommend placing adapters outside of a fume hood to minimize powder accumulation inside the adapters. Additionally, locate your adapters so that both the power and USB or RS232 cords can maintain secure, tight connections. &#x20;
+Next, determine whether to connect adapters to balances using USB cords or RS232 cords, and purchase the cords of your choice. We recommend placing adapters outside of a fume hood to minimize powder accumulation inside the adapters. Additionally, locate your adapters so that both the power and USB or RS232 cords can maintain secure, tight connections. &#x20;
 
 Plug the USB cable into the USB port on the adapter without plugging in any other USB devices at the same time. Then, connect the other end to the balance's USB or RS-232 port. If you are connecting with ethernet, be sure the network cable is plugged in.
 
@@ -44,12 +44,12 @@ It is imperative that the 2D barcode on the adapter remain intact and adhered to
 
 Next, configure the balance serial and output settings according to the manufacturer’s instructions. Set the balance to continuous auto-print mode and update the following communication settings if using the RS-232 port:
 
-| Setting      | Recommended Input                                                                                     |
-| ------------ | ----------------------------------------------------------------------------------------------------- |
-| Baud rate    | 9200 or 9600, depending on your needs. Make sure the AirConsole settings match whatever you set here. |
-| Data         | 8 Bits, No Parity, 1 Stop Bit                                                                         |
-| Parity       | \<none>                                                                                               |
-| Flow control | \<none>                                                                                               |
+| Setting      | Recommended Input                                                                                      |
+| ------------ | ------------------------------------------------------------------------------------------------------ |
+| Baud rate    | 19200 or 9600, depending on your needs. Make sure the AirConsole settings match whatever you set here. |
+| Data         | 8 Bits, No Parity, 1 Stop Bit                                                                          |
+| Parity       | \<none>                                                                                                |
+| Flow control | \<none>                                                                                                |
 
 Update the following settings for both RS-232 and USB ports:
 
@@ -87,6 +87,3 @@ The following table suggests vendor-specific setting recommendations and direct 
 
 
 
-
-
-[^1]: 
