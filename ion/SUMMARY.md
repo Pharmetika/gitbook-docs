@@ -213,6 +213,7 @@
 
 ## Utilities
 
+* [NDC Link List](utilities/ndc-link-list.md)
 * [System Configurations](utilities/system-configurations/README.md)
   * [System Settings](utilities/system-configurations/system-settings/README.md)
     * [General](utilities/system-configurations/system-settings/general.md)
