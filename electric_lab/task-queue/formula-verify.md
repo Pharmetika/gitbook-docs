@@ -1,6 +1,6 @@
 # Formula Verify Tasks
 
-After a formula is created, or when changes are made to a master formula record, the **Formula Verify** task is generated for a pharmacist to review.
+After a formula is created, or when changes are made to a master formula record, the **Formula Verify** task is generated for a pharmacist to review. The number of pharmacists who must review the changes before they are released for compounding is determined by the **Number of Reviewers Required** field in **System Settings.** For more information, refer to the [System Settings](../configuration/system-settings/) topic.
 
 <figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 

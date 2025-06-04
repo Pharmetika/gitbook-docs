@@ -6,7 +6,7 @@
 
 ### Formulas
 
-* **Number of Reviewers Required:** The default number of reviewers is set to 1, but pharmacies can change it to require two lab pharmacist reviewers if needed. Any changes to a formula will require approval from a pharmacist. If one pharmacist creates a formula, a second pharmacist must approve it.
+* **Number of Reviewers Required:** This setting determines how many reviewers are required to approve changes to formulas. The default number of reviewers is set to 1, but pharmacies can change it to require multiple lab pharmacist reviewers if needed. Any changes to a formula require approval from a pharmacist, not including the user who originally made the change. If one pharmacist creates a formula, a second pharmacist must approve it.
 * **Enable Unit Dose Label:** This will enable the config section on the master formulation page that will allow users to customize the unit dose label.
 
 ### Lots
