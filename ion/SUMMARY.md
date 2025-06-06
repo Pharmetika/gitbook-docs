@@ -115,7 +115,7 @@
   * [Setting Up a Profile for a Veterinary Patient](patient/profile/setting-up-a-profile-for-a-veterinary-patient.md)
   * [Veterinary-Use Prescriptions](patient/profile/veterinary-use-prescriptions.md)
   * [Payment Link and PHI Form Example](patient/profile/payment-link-and-phi-form-example.md)
-  * [Profile Options](patient/profile/profile-options.md)
+  * [Automatically Shipping Refills to Patients](patient/profile/profile-options.md)
 * [Payments](patient/payments/README.md)
   * [Managing Payment Sources](patient/payments/managing-payment-sources/README.md)
     * [Emailing a Payment Link](patient/payments/managing-payment-sources/emailing-a-payment-link.md)
