@@ -2,7 +2,7 @@
 
 The Dispensing Queue is where users can see all prescriptions that need to be dispensed. Users can choose from different filters to view only what they want to focus on.
 
-<figure><img src="../../.gitbook/assets/image (364).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Dispensing Queue main screenshot.png" alt=""><figcaption></figcaption></figure>
 
 The following color-coding helps you prioritize dispenses:
 
