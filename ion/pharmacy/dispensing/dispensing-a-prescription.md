@@ -1,6 +1,6 @@
 # Dispensing a Prescription
 
-After clicking on a prescription to fill, the user will see details of that specific prescription.
+After clicking on a prescription to fill, you can see details about that specific prescription.
 
 <figure><img src="../../.gitbook/assets/image (366).png" alt=""><figcaption></figcaption></figure>
 
