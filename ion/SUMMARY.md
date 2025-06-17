@@ -174,6 +174,7 @@
 * [Price Plans](maintenance/price-plans/README.md)
   * [Adding a Price Plan to a Product](maintenance/price-plans/adding-a-price-plan-to-a-product.md)
   * [Removing a Product or Organization from a Price Plan](maintenance/price-plans/remove-product-organization-from-a-price-plan.md)
+* [Price Plan Groups](maintenance/price-plan-groups.md)
 * [Creating New Discount Plans](maintenance/creating-new-discount-plans/README.md)
   * [Assigning Discount Plans](maintenance/creating-new-discount-plans/assigning-discount-plans.md)
   * [Filling Prescriptions with Discounts](maintenance/creating-new-discount-plans/filling-prescriptions-with-discounts.md)
@@ -257,15 +258,15 @@
   * [Pharmacy Contact Information](utilities/system-configurations/pharmacy-contact-information.md)
 * [Local Settings](utilities/local-settings.md)
 
-## PORTAL
+## PRACTITIONER PORTAL
 
-* [Pharmacy Template Editor](portal/pharmacy-template-editor.md)
-* [Clinic Template Editor](portal/clinic-template-editor.md)
-* [Practitioners](portal/practitioners.md)
-* [Clinic List](portal/clinic-list/README.md)
-  * [Invoice Visibility Configuration for the Portal](portal/clinic-list/invoice-visibility-configuration-for-the-portal.md)
-* [Provider Portal Registration](portal/provider-portal-registration.md)
-* [Linking a Clinic to a Provider Portal Invitation](portal/linking-a-clinic-to-a-provider-portal-invitation.md)
+* [Pharmacy Template Editor](practitioner-portal/pharmacy-template-editor.md)
+* [Clinic Template Editor](practitioner-portal/clinic-template-editor.md)
+* [Practitioners](practitioner-portal/practitioners.md)
+* [Clinic List](practitioner-portal/clinic-list/README.md)
+  * [Invoice Visibility Configuration for the Portal](practitioner-portal/clinic-list/invoice-visibility-configuration-for-the-portal.md)
+* [Provider Portal Registration](practitioner-portal/provider-portal-registration.md)
+* [Linking a Clinic to a Provider Portal Invitation](practitioner-portal/linking-a-clinic-to-a-provider-portal-invitation.md)
 
 ## Metrics
 
