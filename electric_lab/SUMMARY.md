@@ -63,6 +63,7 @@
 * [Configuring Equipment](configuration/configuring-equipment/README.md)
   * [Integrating Lab Equipment with ElectricLab](configuration/configuring-equipment/integrating-lab-equipment-with-electriclab.md)
   * [Connecting a Scale Via Direct USB](configuration/configuring-equipment/connecting-a-scale-via-direct-usb.md)
+  * [Using the Manual Balance](configuration/configuring-equipment/using-the-manual-balance.md)
 * [Managing Manufacturers](configuration/managing-manufacturers.md)
 * [Formula Types](configuration/formula-types.md)
 * [Auxiliary Labels](configuration/auxiliary-labels.md)
