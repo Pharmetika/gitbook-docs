@@ -1,6 +1,7 @@
 # Table of contents
 
 * [CHANGELOGS](README.md)
+  * [2025-06-18](readme/2025-06-18.md)
   * [2025-06-04](readme/2025-06-04.md)
   * [2025-05-07](readme/2025-05-07.md)
   * [2025-04-25](readme/2025-04-25.md)
@@ -260,13 +261,13 @@
 
 ## PRACTITIONER PORTAL
 
-* [Pharmacy Template Editor](practitioner-portal/pharmacy-template-editor.md)
-* [Clinic Template Editor](practitioner-portal/clinic-template-editor.md)
-* [Practitioners](practitioner-portal/practitioners.md)
-* [Clinic List](practitioner-portal/clinic-list/README.md)
-  * [Invoice Visibility Configuration for the Portal](practitioner-portal/clinic-list/invoice-visibility-configuration-for-the-portal.md)
-* [Provider Portal Registration](practitioner-portal/provider-portal-registration.md)
-* [Linking a Clinic to a Provider Portal Invitation](practitioner-portal/linking-a-clinic-to-a-provider-portal-invitation.md)
+* [Pharmacy Template Editor](portal/pharmacy-template-editor.md)
+* [Clinic Template Editor](portal/clinic-template-editor.md)
+* [Practitioners](portal/practitioners.md)
+* [Clinic List](portal/clinic-list/README.md)
+  * [Invoice Visibility Configuration for the Portal](portal/clinic-list/invoice-visibility-configuration-for-the-portal.md)
+* [Provider Portal Registration](portal/provider-portal-registration.md)
+* [Linking a Clinic to a Provider Portal Invitation](portal/linking-a-clinic-to-a-provider-portal-invitation.md)
 
 ## Metrics
 
