@@ -17,7 +17,7 @@ When you enter the payer’s IIN and PCN in steps 4 and 5, verify that they are 
 5. Enter the payer’s Processor Control Number (PCN) in the **PCN** field.
 6. Click **Create New** to save your changes.
 
-<figure><img src="../.gitbook/assets/Manage Third PArty Payer.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Manage Third PArty Payer.png" alt=""><figcaption></figcaption></figure>
 
 ## Adding a Patient’s Insurance to Their Profile
 
@@ -35,28 +35,50 @@ After you add a payer to a patient’s profile, you can edit the values in the *
 8. Click **Submit** in the **Update Payer Account** window.
 9. Currently, the **Worker’s Comp Info** button is not recommended, because the feature isn’t yet available. Do not click this button.
 
-<figure><img src="../.gitbook/assets/Update Payer Account.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Update Payer Account.png" alt=""><figcaption></figcaption></figure>
 
 ## Submitting a Prescription Claim to Insurance
 
 1. Open the prescription for filling.
-2. Verify that all the following conditions are met before continuing:&#x20;
-   * The patient has a date of birth, address, and gender documented in the **Patient Profile**. If this condition isn't met, add these pieces of information. ![](<../.gitbook/assets/Demographics (1).png>)
-   * The prescriber has an NPI number on file. ![](<../.gitbook/assets/Prescriber's NPI.png>) If this condition isn’t met, open the Prescriber Profile for the prescriber and add this information in the **NPI** field. ![](<../.gitbook/assets/Verify NPI.png>)
-   * The **AWP** value appears and the product is linked to a price plan that populates the **Price** field. ![](<../.gitbook/assets/AWP and pricing during fill.png>) If this condition isn’t met, verify that the product is attached to a price plan. ![](<../.gitbook/assets/Pricing Plan field (1).png>)If so, open the prescription in the **Prescription Entry** activity and verify that the override price is not set. ![](<../.gitbook/assets/Override price.png>)
+2.  Verify that all the following conditions are met before continuing:&#x20;
+
+    * The patient has a date of birth, address, and gender documented in the **Patient Profile**. If this condition isn't met, add these pieces of information.
+
+    &#x20;![](<../../.gitbook/assets/Demographics (1).png>)
+
+    * The prescriber has an NPI number on file.&#x20;
+
+    ![](<../../.gitbook/assets/Prescriber's NPI.png>)&#x20;
+
+If this condition isn’t met, open the Prescriber Profile for the prescriber and add this information in the **NPI** field.
+
+&#x20;![](<../../.gitbook/assets/Verify NPI.png>)
+
+* The **AWP** value appears and the product is linked to a price plan that populates the **Price** field. ![](<../../.gitbook/assets/AWP and pricing during fill.png>)&#x20;
+
+If this condition isn’t met, verify that the product is attached to a price plan. ![](<../../.gitbook/assets/Pricing Plan field (1).png>)
+
+If so, open the prescription in the **Prescription Entry** activity and verify that the override price is not set. ![](<../../.gitbook/assets/Override price.png>)
+
 3. In the **Options** section, select a hand-off method in the **Hand-off** field.
 4. In the **Pricing** section, select the third-party payer in the **Bill To** field.
 
-<figure><img src="../.gitbook/assets/Bill To field for insurance.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Bill To field for insurance.png" alt=""><figcaption></figcaption></figure>
 
 5. Click the **Show Additional Fields** button.
 
-<figure><img src="../.gitbook/assets/Show Additional Fields button.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Show Additional Fields button.png" alt=""><figcaption></figcaption></figure>
 
-5. In the window that appears, enter necessary information for the insurance claim. The most commonly needed fields are:
-   * **Level of Effort.** This field is usually required for insurance claims. This field appears on the **PA & Claim Info** tab. ![](<../.gitbook/assets/Level of Effort.png>)
-   * **SCC.** This field contains the submission clarification code (SCC) for the claim. It needs to be set to 08-Process Compound For Approved Ingredients if you are submitting a claim for individual covered ingredients. This field appears on the **DUR/PPS** tab. ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXew2pEiY5BeV0zg4PGiJTUT_V8P0TGEC5NqUCZ25M63A4KUFJVolK7qEV08TNnIGy8NzIe0_EkezYPdDxk4GeIUqrZJCF3fz9etRDDxdatg4Xk5TilCpI25mHY7pv1FYvRWgUBA?key=4NAA0PKfeF_lDYxkg9FnDg)
-   * **Compound Ingredients.** Click the tab and verify that all ingredients contain a numeric value equal to or greater than $0.01 in the **AWP** column. If the value in this column appears as NaN, that ingredient isn’t linked to a valid AWP and can’t be submitted to the third party. If you see an ingredient with a value of NaN in this column, copy the NDC of the ingredient, open the ingredient’s product in ION (**Maintenance** > **Products**), and review the entry to ensure the information in the **Pricing** section is complete. ![](<../.gitbook/assets/Ingredients with NaN AWP.png>)
+5.  In the window that appears, enter necessary information for the insurance claim. The most commonly needed fields are:
+
+    * **Level of Effort.** This field is usually required for insurance claims. This field appears on the **PA & Claim Info** tab.
+
+    &#x20;![](<../../.gitbook/assets/Level of Effort.png>)
+
+    * **SCC.** This field contains the submission clarification code (SCC) for the claim. It needs to be set to 08-Process Compound For Approved Ingredients if you are submitting a claim for individual covered ingredients. This field appears on the **DUR/PPS** tab.![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXew2pEiY5BeV0zg4PGiJTUT_V8P0TGEC5NqUCZ25M63A4KUFJVolK7qEV08TNnIGy8NzIe0_EkezYPdDxk4GeIUqrZJCF3fz9etRDDxdatg4Xk5TilCpI25mHY7pv1FYvRWgUBA?key=4NAA0PKfeF_lDYxkg9FnDg)
+    * **Compound Ingredients.** Click the tab and verify that all ingredients contain a numeric value equal to or greater than $0.01 in the **AWP** column. If the value in this column appears as NaN, that ingredient isn’t linked to a valid AWP and can’t be submitted to the third party. If you see an ingredient with a value of NaN in this column, copy the NDC of the ingredient, open the ingredient’s product in ION (**Maintenance** > **Products**), and review the entry to ensure the information in the **Pricing** section is complete.
+
+    &#x20;![](<../../.gitbook/assets/Ingredients with NaN AWP.png>)
 6. Close the window by clicking **Done**.
 7. Click **Fill** to fill the prescription. When you click this button, the system submits the claim to the third-party payer. If the claim doesn’t include rejections, the results of the claim appear and the user can accept the claim and fill the prescription or decline the claim and return to the fill entry.
 

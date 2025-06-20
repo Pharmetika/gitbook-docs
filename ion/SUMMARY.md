@@ -193,7 +193,7 @@
   * [Adding Providers to the Organization](maintenance/organizations/adding-providers-to-the-organization.md)
   * [Adding Price Plans and Prescribers](maintenance/organizations/adding-price-plans-and-prescribers.md)
   * [Billing to Organizations](maintenance/organizations/billing-to-organization.md)
-* [Third Party Payers](maintenance/third-party-payers.md)
+* [Third Party Payers](maintenance/third-party-payers/README.md)
 * [Shortcut Manager](maintenance/shortcut-manager/README.md)
   * [How to Add a New Shortcut](maintenance/shortcut-manager/how-to-add-a-new-shortcut.md)
   * [Managing Instruction Shortcuts](maintenance/shortcut-manager/managing-instruction-shortcuts.md)
