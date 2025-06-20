@@ -78,7 +78,9 @@ If so, open the prescription in the **Prescription Entry** activity and verify t
     * **SCC.** This field contains the submission clarification code (SCC) for the claim. It needs to be set to 08-Process Compound For Approved Ingredients if you are submitting a claim for individual covered ingredients. This field appears on the **DUR/PPS** tab.![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXew2pEiY5BeV0zg4PGiJTUT_V8P0TGEC5NqUCZ25M63A4KUFJVolK7qEV08TNnIGy8NzIe0_EkezYPdDxk4GeIUqrZJCF3fz9etRDDxdatg4Xk5TilCpI25mHY7pv1FYvRWgUBA?key=4NAA0PKfeF_lDYxkg9FnDg)
     * **Compound Ingredients.** Click the tab and verify that all ingredients contain a numeric value equal to or greater than $0.01 in the **AWP** column. If the value in this column appears as NaN, that ingredient isn’t linked to a valid AWP and can’t be submitted to the third party. If you see an ingredient with a value of NaN in this column, copy the NDC of the ingredient, open the ingredient’s product in ION (**Maintenance** > **Products**), and review the entry to ensure the information in the **Pricing** section is complete.
 
-    &#x20;![](<../../.gitbook/assets/Ingredients with NaN AWP.png>)
+    &#x20;
+
+    <figure><img src="../../.gitbook/assets/Ingredients with NaN AWP.png" alt=""><figcaption><p>In this example, the claim is rejected, not only because the AWP appears as NaN for all ingredients, but also because one ingredient has an invalid 10-digit NDC.</p></figcaption></figure>
 6. Close the window by clicking **Done**.
 7. Click **Fill** to fill the prescription. When you click this button, the system submits the claim to the third-party payer. If the claim doesn’t include rejections, the results of the claim appear and the user can accept the claim and fill the prescription or decline the claim and return to the fill entry.
 
