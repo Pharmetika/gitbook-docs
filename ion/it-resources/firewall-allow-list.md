@@ -10,7 +10,6 @@ api.paysimple.com
 app.atlas.so
 cdn.jsdelivr.net
 cdn.lrkt-in.com
-cdn.mouseflow.com
 firestore.googleapis.com
 pharmetika.com
 r.lrkt-in.com
