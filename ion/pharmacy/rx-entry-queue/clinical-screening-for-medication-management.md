@@ -115,11 +115,24 @@ The exclusion list, including drug-disease interactions, duplicate therapy, and 
 
 <figure><img src="../../.gitbook/assets/image (557) (1).png" alt=""><figcaption></figcaption></figure>
 
-## Clinical Screening at Prescription Filling and for Refills
+## Clinical Screening and Clinical Profiles
 
-If potential drug interactions or allergy/intolerance reactions are detected, a clinical screening pop-up will appear after clicking Fill. A pharmacist must be logged in and click **Accept All** to complete the fill. This ensures that only an authorized pharmacist can review and address any issues before finalizing the prescription.
+When the system performs a clinical screening and the clinical screening is approved by the pharmacist, the clinical profile is saved for that patient. A clinical profile includes: &#x20;
 
-Any recorded notes will be visible on the Fill Entry page under Fill History.
+* Patient Sex
+* Height/Weight
+* Diagnosis/Conditions
+* Active Prescriptions
+* Patient Reported Active Medications
+* Allergies
+* DOB
+* Product name
+
+{% hint style="info" %}
+As a reminder, the automated clinical screening in the system includes active prescriptions, patient-reported active medications, and allergies. The other data points in the clinical profile require a manual clinical screening. If those data points change and the clinical screening is retriggered, the pharmacist must manually review this information.
+{% endhint %}
+
+When subsequent screenings are performed, the current profile is checked against previously approved clinical profiles for the patient. If an exact match is found, the review process is skipped. For example, if during PV1, a clinical screening is approved by the pharmacist, it is saved. Later, when the technician goes to fill this prescription, if nothing has changed clinically, the clinical profile of the fill request matches the clinical profile saved from PV1. The user is then able to skip the clinical review process for the fill because of the matching profile that was previously approved.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-10-07 at 12.27.51 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -130,3 +143,7 @@ Clinical screening notes are specific to each fill. To ensure the correct note i
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-10-07 at 12.28.18 PM.png" alt=""><figcaption></figcaption></figure>
+
+### Fills Requiring Review
+
+When filling a prescription, if the clinical profile has not been previously approved, e.g. a new medication or allergy has been added, the technician can send the screening request to the **Fill Request** queue for a pharmacist to approve. This ensures that the technician can continue their workflow while only an authorized pharmacist can review and address any issues with the prescription.
