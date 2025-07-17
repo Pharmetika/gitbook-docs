@@ -87,6 +87,7 @@
   * [Navigating the Prescription Handoff Page](pharmacy/prescription-hand-off/navigating-the-prescription-handoff-page.md)
   * [How to Complete a Prescription](pharmacy/prescription-hand-off/how-to-complete-a-prescription.md)
   * [Completing a Prescription for Shipments Created Outside the System](pharmacy/prescription-hand-off/completing-a-prescription-for-shipments-created-outside-the-system.md)
+  * [Requesting a Signature at Pickup](pharmacy/prescription-hand-off/requesting-a-signature-at-pickup.md)
 * [Shipments](pharmacy/shipments.md)
 
 ## Orders
