@@ -1,6 +1,8 @@
 # Payments
 
-<figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-02 at 11.36.07 AM.png" alt=""><figcaption></figcaption></figure>
+###
+
+<figure><img src="../../../../.gitbook/assets/Payments settings in system configuration.png" alt=""><figcaption></figcaption></figure>
 
 ### Unbilled items
 
@@ -34,6 +36,10 @@ When selected, the organization billing status will display on the patient summa
 The organization icon will display next to the prescription number and the organization name will display when hovering over the icon.
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-02 at 11.43.07 AM.png" alt="" width="198"><figcaption></figcaption></figure>
+
+### Apply Organization Pricing to Patient Billing
+
+If this checkbox is selected, the system uses organization-specific pricing for patient-pay prescriptions written by prescribers associated with that organization. If this checkbox is NOT selected, the system uses organization-specific pricing for organization-pay prescriptions and product-specific pricing for patient-pay prescriptions. For more information about how the system determines pricing, refer to the [Price Plan Groups](../../../../maintenance/price-plan-groups.md) documentation.
 
 ### Disable Payment Functionality for Clinic/Company Patient Profiles
 
