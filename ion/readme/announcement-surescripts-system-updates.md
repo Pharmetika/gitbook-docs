@@ -1,6 +1,6 @@
 # Announcement: SureScripts System Updates
 
-We are pleased to announce that we have completed our direct SureScripts integration!
+We are pleased to announce that we have completed our direct SureScripts integration! We'll be transitioning pharmacies to SureScripts between now and the end of August.
 
 Incoming electronic prescriptions will now come to ION directly from SureScripts without another intermediary, which gives us (and you) more visibility into the submission process.
 
