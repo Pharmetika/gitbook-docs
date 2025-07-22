@@ -1,6 +1,7 @@
 # Table of contents
 
 * [CHANGELOGS](README.md)
+  * [Announcement: SureScripts System Updates](readme/announcement-surescripts-system-updates.md)
   * [2025-07-16](readme/2025-07-16.md)
   * [2025-07-02](readme/2025-07-02.md)
   * [2025-06-18](readme/2025-06-18.md)
