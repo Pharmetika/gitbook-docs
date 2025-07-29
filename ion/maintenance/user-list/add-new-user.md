@@ -10,7 +10,7 @@ Note that a user's username cannot be changed after you create the user in the s
 
 <figure><img src="../../.gitbook/assets/New User button.png" alt=""><figcaption></figcaption></figure>
 
-2. Fill out the necessary information. Required fields are marked with a <mark style="color:red;">red</mark> asterisk and save. A user can be listed as an admin by checking the **Administrative Privileges** checkbox.
+2. Fill out the necessary information. Required fields are marked with a <mark style="color:red;">red</mark> asterisk. A user can be listed as an admin by checking the **Administrative Privileges** checkbox.
 
 <figure><img src="../../.gitbook/assets/Manage User window.png" alt=""><figcaption></figcaption></figure>
 
