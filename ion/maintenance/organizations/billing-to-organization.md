@@ -25,7 +25,7 @@ In the example below, a prescriber submits a prescription that should be billed 
 To set up key phrases for a specific organization, complete these steps:
 
 1. Open the organization’s profile (**Maintenance** > **Organizations** > select the organization).
-2. In the **eRx Clinic Match Text** field, enter the word or phrase you want to search. This field is not case-sensitive and searches using the phrase entered instead of individual words. For example, if you enter “Happy Clinic,” the system searches for the words “happy clinic” in that order, not for the individual words “happy” and “clinic.”
+2. In the **eRx Clinic Match Text** field, enter the word or phrase you want to search. This field is not case-sensitive and searches using the phrase entered instead of individual words. For example, if you enter “Happy Clinic,” the system matches on the words “happy clinic” in that order, not for the individual words “happy” and “clinic.”
 3. Click **Save Organization** at the bottom of the page.
 
 <figure><img src="../../.gitbook/assets/eRX Clinic Match Text (1).png" alt=""><figcaption></figcaption></figure>
