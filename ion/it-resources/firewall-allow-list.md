@@ -17,4 +17,5 @@ securetoken.googleapis.com
 *.pharmetika.com
 *.firebaseio.com
 www.googleapis.com
+upload.filestackapi.com
 ```
