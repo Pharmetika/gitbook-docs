@@ -18,4 +18,5 @@ securetoken.googleapis.com
 *.firebaseio.com
 www.googleapis.com
 upload.filestackapi.com
+ws22.electriclab.app
 ```
