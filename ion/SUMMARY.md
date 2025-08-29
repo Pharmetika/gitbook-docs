@@ -1,6 +1,7 @@
 # Table of contents
 
 * [CHANGELOGS](README.md)
+  * [2025-08-29](readme/2025-08-29.md)
   * [2025-08-25](readme/2025-08-25.md)
   * [2025-08-13](readme/2025-08-13.md)
   * [2025-07-30](readme/2025-07-30.md)
