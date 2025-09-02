@@ -82,3 +82,7 @@
 
 * [Report Guide](report-guide/README.md)
   * [Recall Process](report-guide/recall-process.md)
+
+## IT Resources
+
+* [Firewall Allow List](it-resources/firewall-allow-list.md)
