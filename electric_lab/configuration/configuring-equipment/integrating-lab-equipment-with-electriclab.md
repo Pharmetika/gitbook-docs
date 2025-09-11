@@ -65,7 +65,7 @@ Update the following settings for both RS-232 and USB ports:
 
 ## Vendor-Specific Configuration Information
 
-The following table suggests vendor-specific setting recommendations and direct you to futher vendor-provided information. Contact your balance vendor if you have specific questions about that vendor's products.
+The following table suggests vendor-specific setting recommendations and direct you to further vendor-provided information. Contact your balance vendor if you have specific questions about that vendor's products.
 
 
 
