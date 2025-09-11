@@ -306,3 +306,9 @@
 ## IT Resources
 
 * [Firewall Allow List](it-resources/firewall-allow-list.md)
+
+## Patient Portal
+
+* [About the Patient Portal](patient-portal/about-the-patient-portal.md)
+* [Using the Patient Portal](patient-portal/using-the-patient-portal.md)
+* [Configuring the Patient Portal](patient-portal/configuring-the-patient-portal.md)
