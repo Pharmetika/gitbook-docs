@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Central Prescription Management
 
 The Central Prescription Management module lets you manage prescription entries and view dispenses for all pharmacy locations in one place.

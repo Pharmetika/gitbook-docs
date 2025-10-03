@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Central Fill
 
 With central fill, an originating pharmacy receives a prescription and then a second fulfillment pharmacy dispenses the prescription. The originating pharmacy owns the prescription and all the associated details and functions for the prescription, while the fulfillment pharmacy prepares and ships the dispense.
