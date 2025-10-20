@@ -37,4 +37,4 @@ The statuses are visible in two different areas in the portal:&#x20;
 | Shipping Label Created            | Shipping label has been created                                                                                                                      |
 | Shipping Label Scanned by Carrier | Shipping label scanned by carrier                                                                                                                    |
 | Received by Patient               | Medication has been received by the patient                                                                                                          |
-| Canceled                          | Dispense voided                                                                                                                                      |
+| Voided                            | Dispense voided                                                                                                                                      |
