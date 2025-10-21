@@ -11,7 +11,6 @@
   * [2025-01-29](changelogs/2025-01-29.md)
   * [2025-01-15](changelogs/2025-01-15.md)
   * [2024-12-18](changelogs/2024-12-18.md)
-  * [2024-08-14](changelogs/2024-08-14.md)
 
 ## Support
 
