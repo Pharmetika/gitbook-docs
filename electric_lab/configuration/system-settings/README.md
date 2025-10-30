@@ -26,6 +26,9 @@
 * **Label Dimensions:** In this dropdown menu, select the label size you want to use for medications compounded at your pharmacy. Currently, options are:
   * 2 in X 2.725 in
   * 1.5 in X 3.5 in
+  * 1.125 in X 3.5 in
+  * 2 in X 4 in
+  * 2.125 in X 2.725 in
 * **Include GS1 QR Code on Formula Lots:** This code can include the NDC, lot number, and expiration date. Hospital-use only. To show the GS1 QR code on all labels, enable both this setting and the one below it.
 *   **Include GS1 QR Code on Ingredient Lots:** This code can include the NDC, lot number, and expiration date.  Hospital-use only. To show the GS1 QR code on all labels, enable both this setting and the one above it.
 
