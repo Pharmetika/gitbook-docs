@@ -76,7 +76,6 @@ The task shows the prescriber’s phone number and the message entered by the us
 
 <figure><img src="../.gitbook/assets/SMS received.png" alt="The Mark Complete button is highlighted in an SMS Received task."><figcaption></figcaption></figure>
 
-**Payment Method Update:** Created when a patient adds a new payment method using a web browser site that is sent to them with an [SMS](https://app.gitbook.com/o/SiIjEi2l03RLG9aUYT2g/s/QiiUOZlkw8dQZCIkjwLF/patient/payments/managing-payment-sources/smsing-a-payment-link) or [email](https://app.gitbook.com/o/SiIjEi2l03RLG9aUYT2g/s/QiiUOZlkw8dQZCIkjwLF/patient/payments/managing-payment-sources/emailing-a-payment-link) message. When a user clicks on the task to open it, they can see information about the payment source the patient added and a list of unbilled items for the patient. To complete the task, click **Mark Complete**.\
-
+**Payment Method Update:** Created when a patient adds a new payment method using a web browser site that is sent to them with an [SMS](https://app.gitbook.com/o/SiIjEi2l03RLG9aUYT2g/s/QiiUOZlkw8dQZCIkjwLF/patient/payments/managing-payment-sources/smsing-a-payment-link) or [email](https://app.gitbook.com/o/SiIjEi2l03RLG9aUYT2g/s/QiiUOZlkw8dQZCIkjwLF/patient/payments/managing-payment-sources/emailing-a-payment-link) message. When a user clicks on the task to open it, they can see information about the payment source the patient added and a list of unbilled items for the patient. To complete the task, click **Mark Complete**.<br>
 
 <figure><img src="../.gitbook/assets/Payment Method Update.png" alt="The Mark Complete button is highlighted in a Payment Method Update task."><figcaption></figcaption></figure>

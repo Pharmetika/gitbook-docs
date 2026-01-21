@@ -47,4 +47,4 @@ If the fill transaction was initially set to patient pay and paid for by the pat
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdCXmFjyqAlwU0a5ZZ1zwt-uf8GOahX7KQOMqWH7My4ay2MveAzVsUATBCL1yriLr9udlzjvhYpT9M64rCmZmkNrgEt-KFcbifUsaKnN7ZUa9PkVdZ6e40ripIg-kaUGYRgtTf4Lg?key=x-QZ4YtTOhbfyu0Rd25adfkv" alt="A manual entry is highlighted in the Unbilled Items section."><figcaption></figcaption></figure>
 
-If the price was modified during the re-bill process, you need to manually charge or refund the difference after rebilling the item. The original fill transaction remains marked as paid.\
+If the price was modified during the re-bill process, you need to manually charge or refund the difference after rebilling the item. The original fill transaction remains marked as paid.<br>

@@ -4,8 +4,7 @@ We are pleased to announce that we have completed our direct SureScripts integra
 
 Incoming electronic prescriptions will now come to ION directly from SureScripts without another intermediary, which gives us (and you) more visibility into the submission process.
 
-We can also now take advantage of additional NCPDP electronic prescribing transactions, which can help improve your workflow. Here’s what’s new with this integration:\
-
+We can also now take advantage of additional NCPDP electronic prescribing transactions, which can help improve your workflow. Here’s what’s new with this integration:<br>
 
 * _Rx renewal responses_, which are responses to electronic refill requests sent by the pharmacy, are now accepted. These responses create an entry in the **Prescription Entry** queue.
 * _Change requests_ are now sent. Change requests are similar to clarification requests while allowing you to request more information from prescribers.
@@ -43,4 +42,4 @@ If there is a prescription number associated with the Cancel Rx request, you can
 If there is no prescription associated with the Cancel Rx request, manually submit a response back to the prescriber and then manually locate the medication order in the **Prescription Entry Queue** and discontinue it.
 
 * _Rx Fill notifications_ are now accepted. These messages allow a prescriber to receive a notification of a prescription fill after the prescription leaves the pharmacy.
-* _Rx Transfer transactions_ are not available, because they do not support compounds.\
+* _Rx Transfer transactions_ are not available, because they do not support compounds.<br>

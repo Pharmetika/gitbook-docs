@@ -1,7 +1,6 @@
 # Configuring Custom Workflow
 
-Create a new workflow by clicking **+ New Workflow.** This action will open a blank workflow, allowing the pharmacy to customize and configure various settings. From here, they can set up processes, make adjustments, and fine-tune different options to suit their specific operational needs.\
-
+Create a new workflow by clicking **+ New Workflow.** This action will open a blank workflow, allowing the pharmacy to customize and configure various settings. From here, they can set up processes, make adjustments, and fine-tune different options to suit their specific operational needs.<br>
 
 <figure><img src="../../../../.gitbook/assets/Screenshot 2024-12-04 at 9.00.25 AM.png" alt="" width="341"><figcaption></figcaption></figure>
 

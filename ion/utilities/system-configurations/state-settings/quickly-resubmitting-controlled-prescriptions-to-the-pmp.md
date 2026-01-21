@@ -8,4 +8,4 @@ In the **PMP Details** window, you can see the last date and time the prescripti
 
 <figure><img src="../../../.gitbook/assets/PMP Details win dow.png" alt="The PMP Last Submitted date, Date Left Pharmacy date, and the Request Resubmission button are illustrated."><figcaption></figcaption></figure>
 
-\
+<br>

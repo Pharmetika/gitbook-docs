@@ -16,9 +16,8 @@ Note: This report can be generated for any period within the last 90 days. &#x20
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXdqsJKVkiFnuPpEg0qLvDi3sWAfADxj6Dows4yCBxCxwoN3FzlfNTTT-VTjgjuLop9JIhbi63C3wpOK-C00x5Re4Wp3yP7H4-GTLAM0QUI0p103vYdsgmlogx38jiJY-E95ANac2v9yWHqQnhdEqsL9t64sLQMVTheIbmmaxDtdkgTp-NYaaOE?key=Uzr0yU_z8fTrsgCXten7eg" alt=""><figcaption></figcaption></figure>
 
-Mark ‘Include Additional Identifiers’ and click Submit at the bottom to generate the report\
-
+Mark ‘Include Additional Identifiers’ and click Submit at the bottom to generate the report<br>
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXfSU1iQMiJ-daV9Ta_c_fyYpi557NPbfUydku03gCkLCte3DWeBNB2XpOhRx2Crenef4vwZXkG6rlhkAttzdSQR4FDX9lv_HlXPn2PCCdZXn0GflUFosJaZjObdYMV4KoMFgXKeHg-v1iQNDcAvR9KS1Ijg-QVZrQKsmFBlIl2EDbdpeYQWb0s?key=Uzr0yU_z8fTrsgCXten7eg" alt=""><figcaption></figcaption></figure>
 
-\
+<br>

@@ -22,4 +22,4 @@ On the **Prescription Entry** page, the selected **reason for compounding** will
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf8GYXwfWH8YSsK6E9gUX3QU0NDQ8D-y5id7ibE8htUSTsStK2K1axyupYPlqv_mr4r9MJz_OiSzVsNu8diydKEEcdNzl-iLLXhpiNMmzbNBEs5oS8k9_TSxzaUJI-IJ6Wps7nq?key=Y7EfPucpfrzxTPdZHKIMXAXL" alt=""><figcaption></figcaption></figure>
 
-\
+<br>

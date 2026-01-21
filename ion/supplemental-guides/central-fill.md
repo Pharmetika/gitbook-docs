@@ -46,7 +46,6 @@ E. _**Originate** column._ Use this column to see the pharmacy where each prescr
 
 F. _Column settings button_. Click here  to show or hide the Fulfill and Originate columns.
 
-\
-
+<br>
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd_MOtX6O3sMLugym5WfA79ew9QhBWbNqhcV0nz60IBEgUT04SmMxHaitzc3j2Jo0t11awuSU1IKFIsuOJU0X4tNOhOj1SFqfBg-QOKqfmWbvMPvtoU_VXgUh1t_r4cTuylktKA6A?key=d4IiJ9a2qI6olGw1wDNJjq4c" alt=""><figcaption></figcaption></figure>

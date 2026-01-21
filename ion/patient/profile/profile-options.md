@@ -31,8 +31,7 @@ If you need to manually update a prescription’s next due date, complete these 
 
 ## Adding Autoship Notes
 
-You can add autoship notes with important information about a patient’s autoship plan. There are four types of autoship notes:\
-
+You can add autoship notes with important information about a patient’s autoship plan. There are four types of autoship notes:<br>
 
 * **Rx-level:** These notes are linked to the prescription number and are visible only within the Update Autoship Options window.
 * **Patient-level:** These notes are linked to the patient and appear in both the Update Autoship Options window and the Notes section in the Patient Summary.&#x20;

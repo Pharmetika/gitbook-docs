@@ -1,7 +1,6 @@
 # Hot Keys for Prescription Entry
 
-To ensure the hotkeys are activated properly, make sure the cursor is not inside any input field. Use the **tab** button to move forward to the next available field and use **shift + tab** buttons to move back to previous fields.\
-
+To ensure the hotkeys are activated properly, make sure the cursor is not inside any input field. Use the **tab** button to move forward to the next available field and use **shift + tab** buttons to move back to previous fields.<br>
 
 ## Fields
 
@@ -16,6 +15,5 @@ To ensure the hotkeys are activated properly, make sure the cursor is not inside
 ## Buttons
 
 * Save: press ALT + S (Windows) or press Option + S (MAC)
-* Mark Verified: press ALT + V (Windows) or press Option + V (MAC)\
-
+* Mark Verified: press ALT + V (Windows) or press Option + V (MAC)<br>
 

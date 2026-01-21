@@ -6,4 +6,4 @@ You can generate a PDF statement from existing open invoices by clicking the **S
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfa32kK8bEIvtT2Zg6-39R53QPU8T6dHLTWLEfB23HibLdtEfCX_Krzhq8oQ3jX-OAy_h08qTqXtnYY8p4_6z_OJjEd26IuDyJ0YdWtGRUaZ9IPg7FeNnuDTEkmaOK3I4nuly-m?key=Mwg-J6pWl6poZIgsxn2fk5-D" alt=""><figcaption></figcaption></figure>
 
-\
+<br>
