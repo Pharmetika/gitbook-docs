@@ -9,11 +9,7 @@
 
 * [Summary](epcs-onboarding/summary.md)
 * [Requesting an EPCS Token](epcs-onboarding/requesting-an-epcs-token.md)
-* [Completing Identity Verification](epcs-onboarding/completing-identity-verification/README.md)
-  * [Verifying a Phone Number](epcs-onboarding/completing-identity-verification/verifying-a-phone-number.md)
-  * [Verifying a Secure Card](epcs-onboarding/completing-identity-verification/verifying-a-secure-card.md)
-  * [Verifying a DEA and NPI Number](epcs-onboarding/completing-identity-verification/verifying-a-dea-and-npi-number.md)
-  * [Verifying a Driver License, Selfie, and Liveness](epcs-onboarding/completing-identity-verification/verifying-a-driver-license-selfie-and-liveness.md)
+* [Completing Identity Verification](epcs-onboarding/completing-identity-verification.md)
 * [Upon Receiving an EPCS Token](epcs-onboarding/upon-receiving-an-epcs-token.md)
 
 ## Dashboard
