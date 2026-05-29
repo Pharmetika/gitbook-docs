@@ -24,6 +24,7 @@
 * [Patient Summary](patient-management/patient-summary.md)
 * [Patient Clinical Info](patient-management/patient-clinical-info.md)
 * [Creating a New Patient Profile](patient-management/creating-a-new-patient-profile.md)
+* [Adding a Driver's License](patient-management/adding-a-drivers-license.md)
 
 ## RxPad
 
