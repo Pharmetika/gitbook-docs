@@ -8,8 +8,8 @@ Once the token is received, the prescriber may use it to send electronically pre
 
 ## Sending Prescriptions From a Computer
 
-Insert the token into the USB drive.  Touch or tap the token when the green **Use Security Key** button appears.
+Insert the token into the USB drive.  Touch or tap the token after clicking the blue **Authenticate and Sign Prescriptions** button.
 
 <figure><img src="../.gitbook/assets/image (36).png" alt="" width="450"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Authenticate &#x26; Sign.png" alt=""><figcaption></figcaption></figure>
