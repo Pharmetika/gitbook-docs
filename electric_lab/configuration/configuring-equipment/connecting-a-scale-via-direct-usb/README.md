@@ -6,15 +6,15 @@ To connect a scale to ElectricLab using a direct USB connection, you first need 
 
 1. Click **Add New** to a new piece of equipment from the equipment configuration screen.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="308"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="308"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="495"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="" width="495"><figcaption></figcaption></figure>
 
 2. Enter a name for the printer in the **Description** field.
 3. In the **Equipment Type** field, enter Balance.
 4. In the **Balance Type** field, select USB.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Connect the scale's USB cable to the computer.
 6. Click **Select Device.** A window appears. In this window, select the **USB Serial Controller** option.

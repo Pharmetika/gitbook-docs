@@ -66,7 +66,7 @@
 * [Configuring Equipment](configuration/configuring-equipment/README.md)
   * [Integrating Lab Equipment with ElectricLab](configuration/configuring-equipment/integrating-lab-equipment-with-electriclab.md)
   * [Configuring a Scale for Direct USB](configuration/configuring-equipment/connecting-a-scale-via-direct-usb/README.md)
-    * [Configuring a Scale for Direct USB for Windows](configuration/configuring-equipment/connecting-a-scale-via-direct-usb/configuring-a-scale-for-direct-usb-for-windows.md)
+    * [Configuring a Scale for Direct USB Connection for Windows](configuration/configuring-equipment/connecting-a-scale-via-direct-usb/configuring-a-scale-for-direct-usb-connection-for-windows.md)
   * [Using the Manual Balance](configuration/configuring-equipment/using-the-manual-balance.md)
 * [Managing Manufacturers](configuration/managing-manufacturers.md)
 * [Formula Types](configuration/formula-types.md)
