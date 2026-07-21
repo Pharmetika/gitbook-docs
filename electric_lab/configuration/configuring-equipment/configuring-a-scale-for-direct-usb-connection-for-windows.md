@@ -12,13 +12,13 @@ Add a new balance and select Direct Balance Connect as the type
 
 Be sure to allow Electriclab to access the service
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 If you do not have the service installed, you will be prompted to download and install, it. Follow the instructions and download and install the service.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Once the service is installed you should be able to plug the balance in via a USB to Serial cable and select it in the dropdown.&#x20;
 
