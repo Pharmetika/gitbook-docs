@@ -18,7 +18,7 @@ By default, the Practitioner List is a list of all practitioner Provider Portal 
 On smaller displays, the full width of this table might not fit on your screen. If this is the case, you can scroll the table back and forth horizontally.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Practitioner List.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Practitioner List Status.png" alt=""><figcaption></figcaption></figure>
 
 To automatically begin an email to a practitioner, click the blue letter icon after the name of that practitioner.
 
@@ -32,7 +32,7 @@ The Request Token switch, if enabled, allows a practitioner to begin the process
 
 You can filter the list of practitioner accounts in two ways: with a search field for the practitioner account's username, or with a button group for the practitioner's [EPCS token status](practitioners.md#epcs-statuses).
 
-<figure><img src="../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Practitioner EPCS Status.png" alt=""><figcaption></figcaption></figure>
 
 ### Viewing a Practitioner's Patients
 
@@ -52,12 +52,6 @@ There are three possible EPCS statuses a practitioner account can be in:
 
 **ID Check** - The practitioner has begun the process of proving their identity. This means their identity has not yet been confirmed.
 
-**Processing** - This stage comes after identity proofing the completion of identity proofing. This means that Pharmetika is working on provisioning the provider's EPCS token.
+**Processing** - This stage occurs after the provider has successfully completed the identity proofing process. This means that Pharmetika is working on provisioning the provider's EPCS token.
 
-**Shipped** - Pharmetika has completed token provisioning, and has created a shipping label for shipping the EPCS token to the practitioner's address.
-
-#### Tracking a Shipped Token
-
-When a token for a practitioner has been shipped by Pharmetika, the practitioner's EPCS Status in the Practitioner List will show blue Shipped text with a preceding clipboard icon. By clicking on this text, the tracking number for the token shipment will be copied to your clipboard, in case you need to provide shipping updates to the practitioner.
-
-<div align="center"><figure><img src="../.gitbook/assets/image (214).png" alt=""><figcaption></figcaption></figure></div>
+**Completed** - Pharmetika has completed provisioning, and the practitioner’s EPCS token has been enabled.

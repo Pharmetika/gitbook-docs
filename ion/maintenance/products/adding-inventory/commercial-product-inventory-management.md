@@ -2,11 +2,11 @@
 
 Inventory for commercial products can be entered by navigating to **Maintenance > Products**. From here, search for the existing product you wish to enter inventory for.
 
-![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/8448/direct/1679074904232-1679074904232.png)
+<img src="https://static.helpjuice.com/helpjuice_production/uploads/upload/image/8448/direct/1679074904232-1679074904232.png" alt="" width="375">
 
 Once you've opened a commercial product, there will be an **Inventory** panel in the bottom right.
 
-![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/8448/direct/1679088464142-1679088464142.png)
+<img src="https://static.helpjuice.com/helpjuice_production/uploads/upload/image/8448/direct/1679088464142-1679088464142.png" alt="" width="563">
 
 You can add inventory by clicking the button and entering the lot information.
 
@@ -14,22 +14,22 @@ You can add inventory by clicking the button and entering the lot information.
 
 This lot will then be listed in the inventory, with the options to print a label or record a manual inventory adjustment.
 
-![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/8448/direct/1679088608149-1679088608149.png)
+<img src="https://static.helpjuice.com/helpjuice_production/uploads/upload/image/8448/direct/1679088608149-1679088608149.png" alt="" width="563">
 
 You can scan this label when making dispenses to record use of inventory. Once inventory has been used from a lot, the quantity will display the remaining amount out of the total.
 
-![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/8448/direct/1679088720375-1679088720375.png)
+<img src="https://static.helpjuice.com/helpjuice_production/uploads/upload/image/8448/direct/1679088720375-1679088720375.png" alt="" width="563">
 
 ## Making an inventory adjustment <a href="#making-an-inventory-adjustment-0" id="making-an-inventory-adjustment-0"></a>
 
 You can make a manual inventory adjustment by clicking the **Record Loss** button under an inventory entry.
 
-![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/8448/direct/1679088780493-1679088780493.png)
+<img src="https://static.helpjuice.com/helpjuice_production/uploads/upload/image/8448/direct/1679088780493-1679088780493.png" alt="" width="563">
 
 Here you can enter the quantity to remove, the reason for loss, the removal type, and choose if the whole lot should be removed from inventory.
 
-![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/8448/direct/1679088824445-1679088824445.png)
+<img src="https://static.helpjuice.com/helpjuice_production/uploads/upload/image/8448/direct/1679088824445-1679088824445.png" alt="" width="375">
 
-![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/8448/direct/1679088843701-1679088843701.png)
+<img src="https://static.helpjuice.com/helpjuice_production/uploads/upload/image/8448/direct/1679088843701-1679088843701.png" alt="" width="375">
 
 If a lot is fully removed from inventory, it will be crossed out in the inventory list, a label will not be able to be printed, and it will display removal details when expanded.
