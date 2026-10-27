@@ -12,4 +12,4 @@ Insert the token into the USB drive.  Touch or tap the token after clicking the 
 
 <figure><img src="../.gitbook/assets/image (36).png" alt="" width="450"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Authenticate &#x26; Sign.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Authenticate &#x26; Sign (1).png" alt=""><figcaption></figcaption></figure>
