@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Requesting an EPCS Token
@@ -33,10 +35,10 @@ Next, the prescriber logs into the Provider Portal using their existing credenti
 
 <figure><img src="../.gitbook/assets/Request EPCS 2FA Token (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-2. The **Request EPCS Hardware Token** window appears. Enter the United States address the token should be shipped to, choose which type of USB token you need, select your date of birth from the calendar and click **Submit**. We do not ship tokens to addresses outside of the United States. If you aren't sure which type of USB token to request, check the USB port on your desktop or laptop computer.
+2. The **Request EPCS Hardware Token** window appears. Enter the United States address the token should be shipped to, choose which type of token you need, select your date of birth from the calendar and click **Submit**. We do not ship tokens to addresses outside of the United States. If you aren't sure which type of USB token to request, check the USB port on your desktop or laptop computer.
 
 {% hint style="info" %}
-The token is shipped with a signature required. Please allow up to 10 business days after completing identity verification for the token to be delivered. Identity verification must be completed before the token can be shipped.
+The **hardware** token is shipped with a signature required. Please allow up to 10 business days after completing identity verification for the physical token to be delivered. Identity verification must be completed before the token can be shipped.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/EPCS Request Form.png" alt=""><figcaption></figcaption></figure>
