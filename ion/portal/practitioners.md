@@ -54,4 +54,10 @@ There are three possible EPCS statuses a practitioner account can be in:
 
 **Processing** - This stage occurs after the provider has successfully completed the identity proofing process. This means that Pharmetika is working on provisioning the provider's EPCS token.
 
-**Completed** - Pharmetika has completed provisioning, and the practitioner’s EPCS token has been enabled.
+**Completed** - Pharmetika has completed EPCS token provisioning, and the practitioner’s token has been enabled or shipped, as applicable.
+
+#### Tracking a Shipped Token
+
+When a practitioner's EPCS hard token has been shipped by Pharmetika, their EPCS Status in the Practitioner List will display Shipped in blue text with a preceding clipboard icon. Clicking this text will copy the hard token's shipment tracking number to your clipboard, allowing you to provide shipping updates to the practitioner as needed.
+
+<figure><img src="../.gitbook/assets/image (620).png" alt=""><figcaption></figcaption></figure>
