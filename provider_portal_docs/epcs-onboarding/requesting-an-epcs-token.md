@@ -27,7 +27,7 @@ EPCS tokens are required for providers to electronically prescribe controlled su
 
 First, the pharmacy must enable the EPCS option for a specific prescriber in the Practitioner Portal. To do so, go to Portal > Practitioners and search for the prescriber in the **Practitioner List.** Then, enable the **Request EPCS** setting for the specific prescriber.
 
-<figure><img src="../.gitbook/assets/Request EPCS switch.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Request Token Toggle.png" alt=""><figcaption></figcaption></figure>
 
 Next, the prescriber logs into the Provider Portal using their existing credentials and completes these steps:
 
@@ -35,21 +35,17 @@ Next, the prescriber logs into the Provider Portal using their existing credenti
 
 <figure><img src="../.gitbook/assets/Request EPCS 2FA Token (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-2. The **Request EPCS Hardware Token** window appears. Enter the United States address the token should be shipped to, choose which type of token you need, select your date of birth from the calendar and click **Submit**. We do not ship tokens to addresses outside of the United States. If you aren't sure which type of USB token to request, check the USB port on your desktop or laptop computer.
+2. The **Request EPCS 2FA Token** window appears. Enter your date of birth as YYYY-MM-DD or by utilizing the calendar and click **Submit**.
 
-{% hint style="info" %}
-The **hardware** token is shipped with a signature required. Please allow up to 10 business days after completing identity verification for the physical token to be delivered. Identity verification must be completed before the token can be shipped.
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/EPCS Request Form.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/New EPCS Request Form (Email).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-The identity you verify must match the name (first and last) and information on your account. Mismatches will result in verification failure.
+Your identification must match the first name, last name, and personal information on your account. Any mismatches, including maiden or married last names, will result in verification failure. Please ensure your account information matches your ID before proceeding.
 {% endhint %}
 
 Once submitted, another window appears stating the terms and conditions for using EPCS. Please read them in their entirety, then click **Agree** at the bottom of the page to agree to the terms and conditions.
 
-<figure><img src="../.gitbook/assets/EPCS Provider Acknowledgement.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/New EPCS Acknowledgement.png" alt=""><figcaption></figcaption></figure>
 
 After you agree, a pop-up window will appear to begin the identity verification process. _Note: Do not navigate away or click out of this screen._
 

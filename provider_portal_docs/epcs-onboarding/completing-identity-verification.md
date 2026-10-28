@@ -77,12 +77,9 @@ If additional information is required for identity verification, the system will
 {% hint style="info" %}
 IMPORTANT:
 
-* An email will be sent out to providers with the tracking information for the token.
-* The package will **require a signature** upon delivery.
-*   Please allow up to 10 business days after completing the identity verification to
+* Identity verification by Stripe **must be successfully completed** before the token can be processed.
+* Within **3 business days** of successfully completing identity verification, providers will receive an email with download links for the Pharmetikator soft token app and a link that will log them in.
+* The email will be sent to the email address on file for the provider’s account, and will come from notifications@pharmetika.com.
 
-    receive the token.
-*   Identity verification by Stripe **must be successfully completed** before the token can be
-
-    processed and shipped.
+<p align="center"><img src="../.gitbook/assets/EPCS Soft Token Email.png" alt="" data-size="original"></p>
 {% endhint %}
