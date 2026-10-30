@@ -9,7 +9,7 @@ Once the token has been enabled and you've downloaded the app, log in using your
 <figure><img src="../.gitbook/assets/Pharmetikator App.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-You must **first login** to the app, and **enable** push notifications in order for the token to be registered before you start prescribing.
+You must **first login** to the app, and **enable** push notifications in order for the token to be registered before you start prescribing. **Please note:** The device used to initially register your soft token will be the only device authorized to electronically sign and authenticate controlled substance prescriptions.
 {% endhint %}
 
 ## Sending Prescriptions From a Computer
